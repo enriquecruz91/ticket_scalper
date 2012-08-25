@@ -1,0 +1,32 @@
+.contents {
+	position: absolute;
+	left: 33%;
+	top: 350px;
+	width: 33%;
+}
+
+.btn-board {
+	width: 100%;
+}
+
+.btn-board .btn {
+	width: 95%;
+	font-weight: bolder;
+	text-transform: uppercase;
+	margin: 10px 0px;
+}
+
+.btn-back {
+	position: absolute;
+	right: -9%;
+	top: -18px;
+}
+
+.nav-contents {
+	margin: 0px 15%;
+}
+
+.banner {
+	position: relative;
+	top: 50px;
+}
