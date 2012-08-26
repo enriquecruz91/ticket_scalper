@@ -205,6 +205,15 @@ if __name__ == "__main__":
     collect_upcomming_sales('./Upcoming_sales.txt')
     send_data_by_email('./Upcoming_sales.txt')
 
+def test():
+    url = 'http://www.ticketmaster.com/json/browse/music?select=n93'
+    cookies = dict(
+        MARKET_NAME='TG9zIEFuZ2VsZXMgJiBTdXJyb3VuZGluZyBBcmVhcw%3d%3d',
+        MARKET_ID='27',
+        NDMA='324',
+        LANGUAGE='en-us'
+    ) 
+    reply = requests.get(event_location.url, cookies=event_location.cookies)
 #POSIBLE USABLE FIELDS FOR EVENTS
 
     #doc['VenueCityState'] --> "Morgantown, WV",
