@@ -114,8 +114,7 @@ def get_events_data(event_list, event_location):
     print event_location.url
     print event_location.cookies
     proxies = proxies = {
-        "http": "10.10.1.10:3128",
-        "https": "10.10.1.10:1080",
+        "http": "70.236.87.233:80"
     }
 
     reply = requests.get(event_location.url, cookies=event_location.cookies, proxies=proxies)
