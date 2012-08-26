@@ -113,7 +113,13 @@ def get_events_data(event_list, event_location):
     #dict(cookies_are='working')
     print event_location.url
     print event_location.cookies
-    reply = requests.get(event_location.url, cookies=event_location.cookies)
+    proxies = proxies = {
+        "http": "10.10.1.10:3128",
+        "https": "10.10.1.10:1080",
+    }
+
+    reply = requests.get(event_location.url, cookies=event_location.cookies, proxies=proxies)
+    print reply.request.headers
     print reply
     print '\n \n ------------------- \n \n'
     json_contents = reply.content
