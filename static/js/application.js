@@ -5,11 +5,14 @@ function go_to(url) {
     url: url,
     //data: attrs
     beforeSend: function () {
+      //page_transition('hide');
       $('.contents').hide('slow');
     },
     success: function (data) {
-      $('.contents').html(data);
+      //page_transition('show')
       $('.contents').show('slow');
+      $('.contents').html(data);
+      
     }
   });
 }
@@ -27,6 +30,8 @@ function post_to(url, data) {
       }
   });
 }
+
+
 
 //API DATA ROUTER
 function get_data(route) {
@@ -50,6 +55,19 @@ $('.post_to').live('click', function() {
   return false;
 });
 
+$('.search_in').live('click', function() {
+  var target = '#' + $(this).data('target');
+  var query = $(target).val();
+  iframe_search(query, 'ticketmaster');
+  iframe_search(query, 'stubhub');
+  return false
+});
+$('.search-input').live('keypress', function(e) {
+  if(e.which == 13){
+    $('.search_in').click();
+  }
+});
+
 // ALERT MESSAGES
 function alert_success(msg) {
   $('.banner').html(
@@ -68,3 +86,18 @@ $('.close_banner').live('click', function() {
   return false;
 });
 
+//ANIMATION
+function page_transition(dir) {
+  if (dir == 'hide') {
+    $('.contents').animate({ height: "0%", opacity:0.25 }, 500 );
+  } 
+  else {
+    $('.contents').animate({ height: "100%", opacity:1 }, 500 );
+  }
+}
+
+//IFRAME SEARCH
+function iframe_search(query, target) {
+  var url = '/search?search_query='+ query +'&search_target='+ target
+  window.open(url);
+}

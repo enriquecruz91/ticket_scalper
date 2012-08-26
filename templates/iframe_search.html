@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+
+{% block iframe %}
+	{% if stubhub %}
+	<iframe class="search-iframe" src='http://www.stubhub.com/search/doSearch?searchStr={{ search_query}}&pageNumber=1&resultsPerPage=50&searchMode=event&start=0&rows=50'></iframe>
+	{% else %}
+  	<iframe class="search-iframe" src='http://www.ticketmaster.com/search?tm_link=tm_homeA_header_search&user_input=avicii&q={{ search_query}}&search.x=0&search.y=0'></iframe>
+  	{% endif %}
+{% endblock iframe %}

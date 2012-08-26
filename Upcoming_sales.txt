@@ -1,6 +1,6 @@
 UPCOMING SALES INFO
 
-TOTAL UPCOMIG SALES: 162
+TOTAL UPCOMIG SALES: 165
 
 EVENT DATE:  2012-08-28
 ARTIST:      DeRay Davis - 8:00PM
@@ -760,6 +760,39 @@ SALE START:  Thu, 09/06/12 at 10:00 AM
 SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/Spank-tickets/artist/1569343
 SALE URL:    http://www.ticketmaster.com/event/01004918CB519A17?artistid=1569343&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-08-31
+ARTIST:      Jessica Kirson
+VENUE:       Mohegan Sun Cabaret
+LOCATION:    Uncasville, CT
+PRICE RANGE: 22 - 22
+GENRE:       Comedy
+SALE START:  Fri, 08/31/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Jessica-Kirson-tickets/artist/1486100
+SALE URL:    http://www.ticketmaster.com/event/1D004919FAF36B61?artistid=1486100&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-08-31
+ARTIST:      Angel Salazaar
+VENUE:       Mohegan Sun Cabaret
+LOCATION:    Uncasville, CT
+PRICE RANGE: 22 - 22
+GENRE:       Comedy
+SALE START:  Fri, 08/31/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Angel-Salazaar-tickets/artist/1772266
+SALE URL:    http://www.ticketmaster.com/event/1D004919007F6DA5?artistid=1772266&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-08-31
+ARTIST:      Colin Kane
+VENUE:       Mohegan Sun Cabaret
+LOCATION:    Uncasville, CT
+PRICE RANGE: 22 - 22
+GENRE:       Comedy
+SALE START:  Fri, 08/31/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Colin-Kane-tickets/artist/1545578
+SALE URL:    http://www.ticketmaster.com/event/1D004919043D6E88?artistid=1545578&majorcatid=10002&minorcatid=51
 
 EVENT DATE:  2012-08-27
 ARTIST:      Dwele

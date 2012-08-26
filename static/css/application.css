@@ -1,6 +1,6 @@
 .contents {
 	position: absolute;
-	left: 33%;
+	left: 32%;
 	top: 350px;
 	width: 33%;
 }
@@ -9,11 +9,36 @@
 	width: 100%;
 }
 
+.btn-board h4 {
+	margin: 0px;
+	margin-top: 5px;
+}
 .btn-board .btn {
 	width: 95%;
 	font-weight: bolder;
 	text-transform: uppercase;
 	margin: 10px 0px;
+}
+
+.btn-board .search-input {
+	width: 79%;
+}
+
+.search-iframe {
+	position: fixed;
+	top: 40px;
+	border: none;
+	width: 100%;
+	left: 0px;
+	bottom: 0px;
+	height: 100%;
+}
+
+.btn-board .search-btn {
+	width: 15%;
+	position: relative;
+	bottom: 6px;
+	margin-left: 10px;
 }
 
 .btn-back {
