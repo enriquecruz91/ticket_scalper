@@ -111,6 +111,8 @@ def get_sale_url(doc):
 
 def get_events_data(event_list, event_location):
     #dict(cookies_are='working')
+    print event_location.url
+    print event_location.cookies
     reply = requests.get(event_location.url, cookies=event_location.cookies)
     print reply
     print '\n \n ------------------- \n \n'
