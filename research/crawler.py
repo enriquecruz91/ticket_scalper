@@ -113,9 +113,7 @@ def get_events_data(event_list, event_location):
     #dict(cookies_are='working')
     print event_location.url
     print event_location.cookies
-    proxies = proxies = {
-        "http": "70.236.87.233:80"
-    }
+    proxies =  { "http": "137.193.69.226:4321" }
 
     reply = requests.get(event_location.url, cookies=event_location.cookies)#, proxies=proxies
     print reply.request.headers
@@ -213,7 +211,8 @@ def test():
         NDMA='324',
         LANGUAGE='en-us'
     ) 
-    reply = requests.get(event_location.url, cookies=event_location.cookies)
+    reply = requests.get(url, cookies=cookies, proxies=proxies)
+    proxies =  { "http": "137.193.69.226:80" }
 #POSIBLE USABLE FIELDS FOR EVENTS
 
     #doc['VenueCityState'] --> "Morgantown, WV",

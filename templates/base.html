@@ -14,18 +14,27 @@
         <div class="nav-contents">
           <a class="brand" href="/">SSC Tickets</a>
           <ul class="nav pull-right">
+            <li id="calendar_show">
+              <a href="/calendar">
+                <i class="icon icon-calendar icon-white"></i> Calendar 
+                <i class="icon icon-chevron-down icon-white" id="calendar_toggle"></i>
+              </a>
+            </li>
           </ul>
         </div>
       </div>
     </div>
+    {% block iframe %}{% endblock iframe %}
+    <div class="calendar-container hidden" style="display: none;">
+      <iframe class="search-iframe" src="https://www.google.com/calendar/embed?src=0fktvjbc0obq8trsvnkfg9ql24%40group.calendar.google.com&ctz=America/New_York" style="z-index: 10;"></iframe>
+    </div> 
     <div class="main-cont container">
       <div class="banner">
       </div>
       <div class="contents">
       {% block body %}{% endblock body %}
-      <div class="contents">
-    <div class="main-cont container">
-    {% block iframe %}{% endblock iframe %}
+      </div class="contents">
+    </div class="main-cont container">
   </body>
   {% block js %}{% endblock js %}
 </html>

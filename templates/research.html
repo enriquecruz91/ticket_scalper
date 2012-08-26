@@ -1,9 +1,22 @@
+<a href="#" class='btn btn-primary tittle'>Research</a>
 <a href="/home" class='btn btn-danger btn-back go_to'> back</a>
 <div class="well btn-board">
 	<a href="/research/send_email" class="btn btn-info btn-large post_to">Send Email</a>
 	<h4>Search for an artist:</h4>
 	<div class="artist_search">
 		<input type="text" class="search-input" id="input_1">
-		<button type="submit" class="btn search-btn search_in" data-target="input_1">Submit</button>
+		<button type="submit" class="btn search-btn search_in" data-target="input_1" data-options="2">Submit</button>
+		<div class="row targets">
+			<div class="span2">
+				<label class="checkbox">
+				    <input type="checkbox" value="ticketmaster" id="target_1" checked> Ticketmaster
+				</label>
+			</div>
+			<div class="span2">
+				<label class="checkbox">
+					<input type="checkbox" value="stubhub" id="target_2" checked> Stubhub
+				</label>
+			</div>
+		</div>
 	</div>
 </div>

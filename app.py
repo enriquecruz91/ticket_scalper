@@ -42,6 +42,13 @@ def send_email():
     response = { 'status' : '200'} 
     return jsonify(response)
 
+@app.route("/calendar")
+def calendar():
+    if request.method == 'GET':
+        return render_template('calendar.html')
+    else:
+        return "Method not supported"
+
 @app.route("/tickets/data")
 def data(): 
     return render_template('data.html')

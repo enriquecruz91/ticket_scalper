@@ -58,14 +58,37 @@ $('.post_to').live('click', function() {
 $('.search_in').live('click', function() {
   var target = '#' + $(this).data('target');
   var query = $(target).val();
-  iframe_search(query, 'ticketmaster');
-  iframe_search(query, 'stubhub');
+  var options = parseInt($(this).data('options'));
+  var i = 1;
+  while (i <= options) {
+    target = '#target_' + i;
+    if ($(target).is(':checked') ){
+      iframe_search(query, $(target).val());
+    }
+    i++;
+  }
   return false
 });
 $('.search-input').live('keypress', function(e) {
   if(e.which == 13){
     $('.search_in').click();
   }
+});
+
+$('#calendar_show').live('click', function(e) {
+  if ($('.calendar-container').hasClass('hidden')) {
+    $('.calendar-container').show('slow');
+    $('.calendar-container').removeClass('hidden');
+    $('#calendar_toggle').removeClass('icon-chevron-down');
+    $('#calendar_toggle').addClass('icon-chevron-up');
+  }
+  else {
+    $('.calendar-container').hide('slow');
+    $('.calendar-container').addClass('hidden')
+    $('#calendar_toggle').addClass('icon-chevron-down');
+    $('#calendar_toggle').removeClass('icon-chevron-up');
+  }
+  return false
 });
 
 // ALERT MESSAGES
