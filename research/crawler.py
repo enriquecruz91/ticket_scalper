@@ -112,7 +112,10 @@ def get_sale_url(doc):
 def get_events_data(event_list, event_location):
     #dict(cookies_are='working')
     reply = requests.get(event_location.url, cookies=event_location.cookies)
+    print reply
+    print '\n \n ------------------- \n \n'
     json_contents = reply.content
+    print json_contents
     contents = json.loads(json_contents)
     response = contents['response']
     docs =  response['docs']
