@@ -117,7 +117,7 @@ def get_events_data(event_list, event_location):
         "http": "70.236.87.233:80"
     }
 
-    reply = requests.get(event_location.url, cookies=event_location.cookies, proxies=proxies)
+    reply = requests.get(event_location.url, cookies=event_location.cookies)#, proxies=proxies
     print reply.request.headers
     print reply
     print '\n \n ------------------- \n \n'
