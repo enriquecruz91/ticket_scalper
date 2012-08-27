@@ -5,7 +5,7 @@ import os, sys
 #print sys.version
 import requests
 from flask import Flask, request, session, g, redirect, url_for, abort, render_template, flash, jsonify
-from research import crawler
+from research import crawler, google_API
 
 
 # CONFIGURATIONS
@@ -42,10 +42,19 @@ def send_email():
     response = { 'status' : '200'} 
     return jsonify(response)
 
-@app.route("/calendar")
+@app.route("/calendar", methods=['GET', 'POST'])
 def calendar():
     if request.method == 'GET':
         return render_template('calendar.html')
+    elif request.method == 'POST':
+        date = request.form['date']
+        artist = request.form['artist']
+        location = request.form['location']
+        sale_type = request.form['sale_type']
+        print date + '-' + artist + '-' + location + '-' + sale_type
+        google_API.create_calendar_event(google_API.user_OAuth2(), date, artist, location, sale_type)
+        response = { 'status' : '200'} 
+        return jsonify(response)
     else:
         return "Method not supported"
 

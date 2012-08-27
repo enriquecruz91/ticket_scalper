@@ -47,7 +47,7 @@ $('.go_to').live('click', function() {
   return false;
 });
 
-$('.post_to').live('click', function() {
+$('.put_to').live('click', function() {
   var data_route = $(this).data('funct');
   var data = get_data(data_route);
   var url = $(this).attr('href');
@@ -123,4 +123,47 @@ function page_transition(dir) {
 function iframe_search(query, target) {
   var url = '/search?search_query='+ query +'&search_target='+ target
   window.open(url);
+}
+
+// METHODS FOR CREATING A NEW EVENT
+
+$(function() {
+  $( "#date_input" ).datepicker();
+});
+
+
+$('#create-event').live('click', function() {
+  var form = '#calendar_form ';
+  var artist = $(form + '#artist_input').val();
+  var city = $(form + '#city_input').val();
+  var state = $(form + '#state_input').val();
+  var date = $(form + '#date_input').val();
+  var hour = $(form + '#hr_input').val();
+  var period = $(form + '#period_input').val();
+  var sale_type = $(form + '#sale_type_input').val();
+  var location = city + ', ' + state;
+  var date_time = parse_time(date, hour, period);
+  data = { date: date_time, artist: artist, location: location, sale_type: sale_type}
+  $.ajax({
+    type: 'POST',
+    url: '/calendar',
+    data: data,
+    success: function (data) {
+      alert_success(' Event successfuly created!');
+    }
+  });
+});
+
+function parse_time(date, hour, period) {
+  if (period == 'PM') {
+    hour = parseInt(hour)+12;
+    hour = hour.toString();
+  }
+  date = date.split('/');
+  temp = date[0];
+  date[0] = date[2];
+  date[2] = date[1]
+  date[1] = temp;
+  date = date.join('-');
+  return date + 'T' + hour + ':00:00'
 }

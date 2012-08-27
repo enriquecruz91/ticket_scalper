@@ -1,6 +1,6 @@
 UPCOMING SALES INFO
 
-TOTAL UPCOMIG SALES: 165
+TOTAL UPCOMIG SALES: 185
 
 EVENT DATE:  2012-08-28
 ARTIST:      DeRay Davis - 8:00PM
@@ -23,6 +23,28 @@ SALE START:  Tue, 08/28/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Deray-Davis-tickets/artist/1325274
 SALE URL:    http://www.ticketmaster.com/event/1C004918BFFE67FF?artistid=1325274&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-08-27
+ARTIST:      Beethoven's 5th
+VENUE:       California Theatre
+LOCATION:    San Jose, CA
+PRICE RANGE: 38 - 78
+GENRE:       Classical
+SALE START:  Mon, 08/27/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Symphony-Silicon-Valley-tickets/artist/888754
+SALE URL:    http://www.ticketmaster.com/event/1C00485CD49B6A4B?artistid=888754&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-08-28
+ARTIST:      DeRay Davis - 8:00PM
+VENUE:       Cobb&#39;s Comedy Club
+LOCATION:    San Francisco, CA
+PRICE RANGE: 25 - 25
+GENRE:       Comedy
+SALE START:  Tue, 08/28/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Deray-Davis-tickets/artist/1325274
+SALE URL:    http://www.ticketmaster.com/event/1C004918BFF767F1?artistid=1325274&majorcatid=10002&minorcatid=51
 
 EVENT DATE:  2012-08-27
 ARTIST:      Saturday Morning Cartoons
@@ -67,17 +89,6 @@ SALE START:  Fri, 08/31/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Cartel-tickets/artist/720721
 SALE URL:    http://www.ticketmaster.com/event/02004917E77E93E0?artistid=720721&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-26
-ARTIST:      Mike Stud
-VENUE:       Chameleon Club
-LOCATION:    Lancaster, PA
-PRICE RANGE: 12 - 12
-GENRE:       Rap and Hip-Hop
-SALE START:  Sun, 08/26/12 at 03:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Mike-Stud-tickets/artist/1642674
-SALE URL:    http://www.ticketmaster.com/event/02004917F5939C20?artistid=1642674&majorcatid=10001&minorcatid=3
 
 EVENT DATE:  2012-08-31
 ARTIST:      Lewis Black
@@ -387,6 +398,17 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Roky-Erickson-tickets/artist/735019
 SALE URL:    http://www.ticketmaster.com/event/2900490E19510CFB?artistid=735019&majorcatid=10001&minorcatid=1
 
+EVENT DATE:  2012-10-19
+ARTIST:      The Midtown Men
+VENUE:       Baton Rouge River Center Theater
+LOCATION:    Baton Rouge, LA
+PRICE RANGE: 30 - 55
+GENRE:       Rock and Pop
+SALE START:  Mon, 10/15/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/The-Midtown-Men-tickets/artist/1596288
+SALE URL:    http://www.ticketmaster.com/event/1B00487795CE5D58?artistid=1596288&majorcatid=10001&minorcatid=1
+
 EVENT DATE:  2012-08-27
 ARTIST:      Manifest Presents Beyond: A 2 Part Jam-tronica Showcase
 VENUE:       8x10
@@ -408,6 +430,17 @@ SALE START:  Mon, 08/27/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Wale-tickets/artist/1305959
 SALE URL:    http://www.ticketmaster.com/event/150049189A1F47D0?artistid=1305959&majorcatid=10001&minorcatid=3
+
+EVENT DATE:  2012-08-27
+ARTIST:      Old Man Brown
+VENUE:       8x10
+LOCATION:    Baltimore, MD
+PRICE RANGE: 10 - 12
+GENRE:       Rock and Pop
+SALE START:  Mon, 08/27/12 at 05:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Old-Man-Brown-tickets/artist/1549870
+SALE URL:    http://www.ticketmaster.com/event/150049190392631C?artistid=1549870&majorcatid=10001&minorcatid=1
 
 EVENT DATE:  2012-08-28
 ARTIST:      Gianmarco
@@ -530,6 +563,17 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Morton-Subotnick-tickets/artist/1592264
 SALE URL:    http://www.ticketmaster.com/event/15004915F5755A7A?artistid=1592264&majorcatid=10001&minorcatid=52
 
+EVENT DATE:  2012-09-07
+ARTIST:      Smashing Pumpkins
+VENUE:       Patriot Center
+LOCATION:    Fairfax, VA
+PRICE RANGE: 55 - 55
+GENRE:       Alternative Rock
+SALE START:  Tue, 09/04/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/Smashing-Pumpkins-tickets/artist/736143
+SALE URL:    http://www.ticketmaster.com/event/15004918C92A65A5?artistid=736143&majorcatid=10001&minorcatid=60
+
 EVENT DATE:  2012-09-19
 ARTIST:      Prazak Quartet
 VENUE:       Library of Congress
@@ -573,6 +617,17 @@ SALE START:  Mon, 08/27/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Wale-tickets/artist/1305959
 SALE URL:    http://www.ticketmaster.com/event/150049189A1F47D0?artistid=1305959&majorcatid=10001&minorcatid=3
+
+EVENT DATE:  2012-08-27
+ARTIST:      Old Man Brown
+VENUE:       8x10
+LOCATION:    Baltimore, MD
+PRICE RANGE: 10 - 12
+GENRE:       Rock and Pop
+SALE START:  Mon, 08/27/12 at 05:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Old-Man-Brown-tickets/artist/1549870
+SALE URL:    http://www.ticketmaster.com/event/150049190392631C?artistid=1549870&majorcatid=10001&minorcatid=1
 
 EVENT DATE:  2012-08-28
 ARTIST:      Gianmarco
@@ -695,6 +750,17 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Morton-Subotnick-tickets/artist/1592264
 SALE URL:    http://www.ticketmaster.com/event/15004915F5755A7A?artistid=1592264&majorcatid=10001&minorcatid=52
 
+EVENT DATE:  2012-09-07
+ARTIST:      Smashing Pumpkins
+VENUE:       Patriot Center
+LOCATION:    Fairfax, VA
+PRICE RANGE: 55 - 55
+GENRE:       Alternative Rock
+SALE START:  Tue, 09/04/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/Smashing-Pumpkins-tickets/artist/736143
+SALE URL:    http://www.ticketmaster.com/event/15004918C92A65A5?artistid=736143&majorcatid=10001&minorcatid=60
+
 EVENT DATE:  2012-09-19
 ARTIST:      Prazak Quartet
 VENUE:       Library of Congress
@@ -716,6 +782,83 @@ SALE START:  Thu, 09/06/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Commandants-USMC-Birthday-Ball-tickets/artist/1158119
 SALE URL:    http://www.ticketmaster.com/event/150048B796AE35F5?artistid=1158119&majorcatid=10001&minorcatid=107
+
+EVENT DATE:  2012-08-29
+ARTIST:      Bombino
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       World Music
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bombino-tickets/artist/1577943
+SALE URL:    http://www.ticketmaster.com/event/290049193319620F?artistid=1577943&majorcatid=10001&minorcatid=5
+
+EVENT DATE:  2012-08-29
+ARTIST:      Jaill featuring Fergus & Geronimo
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Alternative Rock
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Jaill-tickets/artist/1485541
+SALE URL:    http://www.ticketmaster.com/event/2900491935706211?artistid=1485541&majorcatid=10001&minorcatid=60
+
+EVENT DATE:  2012-08-29
+ARTIST:      Kenny Tudrick
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Kenny-Tudrick-tickets/artist/1768185
+SALE URL:    http://www.ticketmaster.com/event/29004919369C6213?artistid=1768185&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-08-29
+ARTIST:      Wreckless Eric & Amy Rigby
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Wreckless-Eric-Amy-Rigby-tickets/artist/1251612
+SALE URL:    http://www.ticketmaster.com/event/2900491938F66215?artistid=1251612&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-08-29
+ARTIST:      Wayne Krantz
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Jazz and Blues
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Wayne-Krantz-tickets/artist/737319
+SALE URL:    http://www.ticketmaster.com/event/290049193C776217?artistid=737319&majorcatid=10001&minorcatid=4
+
+EVENT DATE:  2012-08-29
+ARTIST:      Amy Black Band
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Country and Folk
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Amy-Black-Band-tickets/artist/1772287
+SALE URL:    http://www.ticketmaster.com/event/290049193FFC621B?artistid=1772287&majorcatid=10001&minorcatid=2
+
+EVENT DATE:  2012-08-29
+ARTIST:      James McMurtry
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/James-McMurtry-tickets/artist/1356659
+SALE URL:    http://www.ticketmaster.com/event/2900491961F8621F?artistid=1356659&majorcatid=10001&minorcatid=1
 
 EVENT DATE:  2012-09-10
 ARTIST:      Spank!
@@ -727,6 +870,17 @@ SALE START:  Thu, 09/06/12 at 10:00 AM
 SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/Spank-tickets/artist/1569343
 SALE URL:    http://www.ticketmaster.com/event/01004918CB4A99EF?artistid=1569343&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-08-29
+ARTIST:      Bronze Radio Return
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bronze-Radio-Return-tickets/artist/1565709
+SALE URL:    http://www.ticketmaster.com/event/2900491964506221?artistid=1565709&majorcatid=10001&minorcatid=1
 
 EVENT DATE:  2012-09-10
 ARTIST:      Spank!
@@ -772,6 +926,28 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Jessica-Kirson-tickets/artist/1486100
 SALE URL:    http://www.ticketmaster.com/event/1D004919FAF36B61?artistid=1486100&majorcatid=10002&minorcatid=51
 
+EVENT DATE:  2012-08-29
+ARTIST:      Perfume Genius featuring Dusted
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Perfume-Genius-tickets/artist/1451861
+SALE URL:    http://www.ticketmaster.com/event/2900491966A86227?artistid=1451861&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-08-29
+ARTIST:      Tift Merritt featuring the Pines
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Tift-Merritt-tickets/artist/836937
+SALE URL:    http://www.ticketmaster.com/event/290049196900622D?artistid=836937&majorcatid=10001&minorcatid=1
+
 EVENT DATE:  2012-08-31
 ARTIST:      Angel Salazaar
 VENUE:       Mohegan Sun Cabaret
@@ -782,6 +958,17 @@ SALE START:  Fri, 08/31/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Angel-Salazaar-tickets/artist/1772266
 SALE URL:    http://www.ticketmaster.com/event/1D004919007F6DA5?artistid=1772266&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-08-29
+ARTIST:      Wanda Jackson featuring Daniel Romano
+VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
+LOCATION:    Somerville, MA
+PRICE RANGE: Unavailable
+GENRE:       Country and Folk
+SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Daniel-Romano-tickets/artist/1479925
+SALE URL:    http://www.ticketmaster.com/event/290049196B596239?artistid=1479925&majorcatid=10001&minorcatid=2
 
 EVENT DATE:  2012-08-31
 ARTIST:      Colin Kane
@@ -859,6 +1046,17 @@ SALE START:  Wed, 09/05/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Billy-Childs-tickets/artist/736806
 SALE URL:    http://www.ticketmaster.com/event/06004902AD074AED?artistid=736806&majorcatid=10001&minorcatid=4
+
+EVENT DATE:  2012-08-27
+ARTIST:      Halet Huber Benefit
+VENUE:       Pops
+LOCATION:    Sauget, IL
+PRICE RANGE: 8 - 8
+GENRE:       Rock and Pop
+SALE START:  Mon, 08/27/12 at 11:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Royal-Bliss-tickets/artist/1255725
+SALE URL:    http://www.ticketmaster.com/event/06004915ED257287?artistid=1255725&majorcatid=10001&minorcatid=1
 
 EVENT DATE:  2012-09-05
 ARTIST:      Terell Stafford
@@ -1410,6 +1608,17 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
 SALE URL:    http://www.ticketmaster.com/event/0F00490E97902EBE?artistid=780815&majorcatid=10001&minorcatid=5
 
+EVENT DATE:  2012-08-27
+ARTIST:      Hairball
+VENUE:       Memorial Hall Racine Civic Centre
+LOCATION:    Racine, WI
+PRICE RANGE: 15 - 15
+GENRE:       Rock and Pop
+SALE START:  Mon, 08/27/12 at 08:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Hairball-tickets/artist/1088771
+SALE URL:    http://www.ticketmaster.com/event/070049158B251C60?artistid=1088771&majorcatid=10001&minorcatid=1
+
 EVENT DATE:  2012-08-31
 ARTIST:      &#34;Weird Al&#34; Yankovic - The Alpocalypse Tour
 VENUE:       Potawatomi Casino/Northern Lights Theater/Expo Center
@@ -1475,17 +1684,6 @@ SALE START:  Fri, 09/07/12 at 12:00 PM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Uriah-Heep-tickets/artist/736375
 SALE URL:    http://www.ticketmaster.com/event/070048FE99EE25EE?artistid=736375&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-26
-ARTIST:      Das Racist
-VENUE:       WRONGBAR
-LOCATION:    Toronto, ON
-PRICE RANGE: Unavailable
-GENRE:       Rap and Hip-Hop
-SALE START:  Sun, 08/26/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Das-Racist-tickets/artist/1512553
-SALE URL:    http://www.ticketmaster.ca/event/29004918CFA9570A?artistid=1512553&majorcatid=10001&minorcatid=3
 
 EVENT DATE:  2012-08-27
 ARTIST:      Ottawa Symphony Orchestra
@@ -1674,6 +1872,17 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.ca/The-Brian-Browne-Trio-tickets/artist/12087
 SALE URL:    http://www.ticketmaster.ca/event/100048BEC0E89DE9?artistid=12087&majorcatid=10001&minorcatid=4
 
+EVENT DATE:  2012-08-27
+ARTIST:      Ottawa Symphony Orchestra
+VENUE:       National Arts Centre / Centre national des Arts
+LOCATION:    Ottawa, ON
+PRICE RANGE: 15 - 71
+GENRE:       Classical
+SALE START:  Mon, 08/27/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.ca/Ottawa-Symphony-Orchestra-tickets/artist/891922
+SALE URL:    http://www.ticketmaster.ca/event/100048ACC7245295?artistid=891922&majorcatid=10002&minorcatid=203
+
 EVENT DATE:  2012-09-04
 ARTIST:      Vancouver Recital Society: Andras Schiff
 VENUE:       Chan Centre For The Performing Arts
@@ -1750,4 +1959,15 @@ SALE START:  Tue, 09/04/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.ca/Vancouver-Recital-Society-tickets/artist/986970
 SALE URL:    http://www.ticketmaster.ca/event/1100490EAD729D7D?artistid=986970&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-28
+ARTIST:      Bruce Springsteen
+VENUE:       Rogers Arena
+LOCATION:    Vancouver, BC
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Fri, 09/28/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.ca/Bruce-Springsteen-tickets/artist/736179
+SALE URL:    http://www.ticketmaster.ca/event/110048FB8E76FDAB?artistid=736179&majorcatid=10001&minorcatid=1
 

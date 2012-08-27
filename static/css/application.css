@@ -66,3 +66,45 @@
 	position: relative;
 	top: 50px;
 }
+
+.modal-header {
+	background-color: #DA4F49;
+	border-bottom: 2px solid black;
+}
+
+.modal-footer {
+	background-color: #04C;
+}
+
+.close {
+	font-size: 25px;
+	opacity: 0.5;
+	filter: alpha(opacity=20);
+}
+
+#calendar_form p {
+	margin: 20px 0px;
+}
+
+.modal-header h3 {
+	text-transform: uppercase;
+	text-align: center;
+	font-weight: bolder;
+}
+
+#calendar_form {
+	margin: 40px 40px;
+}
+
+#calendar_form .form-row span {
+	width: 80px;
+	display: inline-block;
+}
+
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }

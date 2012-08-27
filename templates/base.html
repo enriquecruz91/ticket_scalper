@@ -2,9 +2,14 @@
 <html>
   <head>
     <title>SSC Tickets</title>
-    <link rel=stylesheet type=text/css href="static/css/bootstrap.css">
     <script type="text/javascript" language="JavaScript" src="static/js/jquery-1.8.0.min.js"></script>
+    <link rel=stylesheet type=text/css href="static/css/bootstrap.css">
+    <script type="text/javascript" language="JavaScript" src="static/js/bootstrap.js"></script>>
     <link rel=stylesheet type=text/css href="static/css/application.css">
+    <link rel=stylesheet type=text/css href="static/css/jquery-ui-1.8.23.custom.css">
+    <script type="text/javascript" language="JavaScript" src="static/js/jquery-ui-1.8.23.custom.min.js">
+    </script>
+    <script type="text/javascript" language="JavaScript" src="static/js/timepicker.js"></script>
     <script type="text/javascript" language="JavaScript" src="static/js/application.js"></script>
     {% block css %}{% endblock css %}
   <head>
@@ -14,8 +19,14 @@
         <div class="nav-contents">
           <a class="brand" href="/">SSC Tickets</a>
           <ul class="nav pull-right">
+            <li>
+              <a data-toggle="modal" href="#example" class=""> 
+                <i class="icon icon-plus icon-white"></i>
+                <i class="icon icon-tag icon-white"></i>
+              </a>
+            </li>
             <li id="calendar_show">
-              <a href="/calendar">
+              <a href="#">
                 <i class="icon icon-calendar icon-white"></i> Calendar 
                 <i class="icon icon-chevron-down icon-white" id="calendar_toggle"></i>
               </a>
@@ -35,6 +46,42 @@
       {% block body %}{% endblock body %}
       </div class="contents">
     </div class="main-cont container">
-  </body>
+    <div class="container">   
+      <div id="example" class="modal hide fade in" style="display: none; ">  
+        <div class="modal-header">  
+          <a class="close" data-dismiss="modal">×</a>  
+          <h3>Add Event To Calendar</h3>  
+        </div>  
+      <div class="modal-body"> 
+        <form id="calendar_form">
+          <p class="form-row"><span>Artist:</span>
+            <input type="text" placeholder="Artist Name" id="artist_input">
+          </p>
+          <p class="form-row"><span>City & State:</span>
+            <input class="input-medium" type="text" placeholder="City" id="city_input">
+            <input type="text" class="input-mini" placeholder="State" id="state_input">
+          </p>
+          <p class="form-row"><span>Start Time:</span>
+            <input class="input-small" type="text" placeholder="Date" id="date_input">
+            <input class="input-small" type="text" placeholder="Hour (1-12)" id="hr_input">
+            <select class="input-small" id="period_input">
+              <option>AM</option><option>PM</option>
+            </select>
+          </p>
+          <p class="form-row"><span>Sale Type:</span>
+            <select id="sale_type_input">
+              <option>General Sale</option>
+              <option>Internet Presale</option>
+              <option>Citi Presale</option>
+              <option>Amex Presale</option>
+              <option>Live Nation Presale</option>
+              <option>Other</option>
+            </select>
+          </p>  
+        </form>
+      </div>
+      <div class="modal-footer">  
+        <a href="#" id="create-event" data-dismiss="modal" class="btn btn-success btn-large">Add Event</a>  
+      </div>    
   {% block js %}{% endblock js %}
 </html>
