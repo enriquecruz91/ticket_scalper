@@ -53,6 +53,7 @@
           <h3>Add Event To Calendar</h3>  
         </div>  
       <div class="modal-body"> 
+        <div id='result'></div>
         <form id="calendar_form">
           <p class="form-row"><span>Artist:</span>
             <input type="text" placeholder="Artist Name" id="artist_input">
@@ -83,5 +84,10 @@
       <div class="modal-footer">  
         <a href="#" id="create-event" data-dismiss="modal" class="btn btn-success btn-large">Add Event</a>  
       </div>    
-  {% block js %}{% endblock js %}
+  <script>
+  {% block js %}
+  //$( "#date_input" ).datetimepicker();
+  $( "#date_input" ).datepicker();
+  {% endblock js %}
+  </script>
 </html>

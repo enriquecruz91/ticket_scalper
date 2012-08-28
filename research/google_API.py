@@ -30,6 +30,7 @@ def user_OAuth2():
 	    client_id='543969079784-4m945i6c1s5c9jmplabpsc4o2s29i4om.apps.googleusercontent.com',
 	    client_secret='VF-_9Y47aNjZR7jCjKr42Cz1',
 	    scope='https://www.googleapis.com/auth/calendar',
+	    redirect_uri='http://127.0.0.1:5000/auth',
 	    user_agent='SSC-0.2')
 
 	# To disable the local server feature, uncomment the following line:

@@ -17,7 +17,7 @@ function go_to(url) {
   });
 }
 
-function post_to(url, data) {
+function put_to(url, data) {
   $.ajax({
       type: 'GET',
       url: url,
@@ -30,8 +30,6 @@ function post_to(url, data) {
       }
   });
 }
-
-
 
 //API DATA ROUTER
 function get_data(route) {
@@ -51,7 +49,7 @@ $('.put_to').live('click', function() {
   var data_route = $(this).data('funct');
   var data = get_data(data_route);
   var url = $(this).attr('href');
-  post_to(url, data);
+  put_to(url, data);
   return false;
 });
 
@@ -127,11 +125,6 @@ function iframe_search(query, target) {
 
 // METHODS FOR CREATING A NEW EVENT
 
-$(function() {
-  $( "#date_input" ).datepicker();
-});
-
-
 $('#create-event').live('click', function() {
   var form = '#calendar_form ';
   var artist = $(form + '#artist_input').val();
@@ -150,6 +143,8 @@ $('#create-event').live('click', function() {
     data: data,
     success: function (data) {
       alert_success(' Event successfuly created!');
+      auth_link = '<a href="' + data +'" target="_blank"> Authenticate </a>'
+      $('#result').html(auth_link);
     }
   });
 });
