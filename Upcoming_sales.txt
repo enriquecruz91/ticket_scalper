@@ -1,127 +1,182 @@
 UPCOMING SALES INFO
 
-TOTAL UPCOMIG SALES: 189
+TOTAL UPCOMIG SALES: 122
 
-EVENT DATE:  2012-08-28
-ARTIST:      DeRay Davis - 8:00PM
-VENUE:       Cobb&#39;s Comedy Club
+EVENT DATE:  2012-09-08
+ARTIST:      Bud Light Presents Peter Murphy
+VENUE:       Club Nokia
+LOCATION:    Los Angeles, CA
+PRICE RANGE: 19 - 19
+GENRE:       Alternative Rock
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Peter-Murphy-tickets/artist/735714
+SALE URL:    http://www.ticketmaster.com/event/2C004925CA714DE1?artistid=735714&majorcatid=10001&minorcatid=60
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 15.95 - 15.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CA9FB035?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 15.95 - 15.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CAA3B037?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 15.95 - 15.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CAA7B039?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 15.95 - 15.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CAABB03B?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 15.95 - 15.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CAB3B040?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 17.95 - 17.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CAB8B043?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 17.95 - 17.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CABDB045?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-08
+ARTIST:      Bob Dibuono
+VENUE:       Catch a Rising Star At Silver Legacy Casino
+LOCATION:    Reno, NV
+PRICE RANGE: 15.95 - 15.95
+GENRE:       Comedy
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dibuono-tickets/artist/1112193
+SALE URL:    http://www.ticketmaster.com/event/17004925CAAEB03D?artistid=1112193&majorcatid=10002&minorcatid=51
+
+EVENT DATE:  2012-09-09
+ARTIST:      Patti Smith
+VENUE:       The Fillmore
 LOCATION:    San Francisco, CA
-PRICE RANGE: 25 - 25
-GENRE:       Comedy
-SALE START:  Tue, 08/28/12 at 10:00 AM
+PRICE RANGE: 39.5 - 39.5
+GENRE:       Alternative Rock
+SALE START:  Sun, 09/09/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Deray-Davis-tickets/artist/1325274
-SALE URL:    http://www.ticketmaster.com/event/1C004918BFF467E9?artistid=1325274&majorcatid=10002&minorcatid=51
+ARTIST URL:  http://www.ticketmaster.com/Patti-Smith-tickets/artist/771997
+SALE URL:    http://www.ticketmaster.com/event/1C004901CF7D75E6?artistid=771997&majorcatid=10001&minorcatid=60
 
-EVENT DATE:  2012-08-28
-ARTIST:      DeRay Davis - 10:15PM
-VENUE:       Cobb&#39;s Comedy Club
-LOCATION:    San Francisco, CA
-PRICE RANGE: 25 - 25
-GENRE:       Comedy
-SALE START:  Tue, 08/28/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Deray-Davis-tickets/artist/1325274
-SALE URL:    http://www.ticketmaster.com/event/1C004918BFFE67FF?artistid=1325274&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-28
-ARTIST:      DeRay Davis - 8:00PM
-VENUE:       Cobb&#39;s Comedy Club
-LOCATION:    San Francisco, CA
-PRICE RANGE: 25 - 25
-GENRE:       Comedy
-SALE START:  Tue, 08/28/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Deray-Davis-tickets/artist/1325274
-SALE URL:    http://www.ticketmaster.com/event/1C004918BFF767F1?artistid=1325274&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-28
-ARTIST:      DeRay Davis - 10:15PM
-VENUE:       Cobb&#39;s Comedy Club
-LOCATION:    San Francisco, CA
-PRICE RANGE: 25 - 25
-GENRE:       Comedy
-SALE START:  Tue, 08/28/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Deray-Davis-tickets/artist/1325274
-SALE URL:    http://www.ticketmaster.com/event/1C004918C0036806?artistid=1325274&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-28
-ARTIST:      DeRay Davis - 8:00PM
-VENUE:       Cobb&#39;s Comedy Club
-LOCATION:    San Francisco, CA
-PRICE RANGE: 25 - 25
-GENRE:       Comedy
-SALE START:  Tue, 08/28/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Deray-Davis-tickets/artist/1325274
-SALE URL:    http://www.ticketmaster.com/event/1C004918BFFA67F9?artistid=1325274&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-09-04
-ARTIST:      Up & Coming Comedy Series
-VENUE:       Scranton Cultural Center
-LOCATION:    Scranton, PA
-PRICE RANGE: 16 - 16
-GENRE:       Comedy
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Up-Coming-Comedy-Series-tickets/artist/1468422
-SALE URL:    http://www.ticketmaster.com/event/02004909ED0295A4?artistid=1468422&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-09-04
-ARTIST:      Listen Local Music Series featuring AAYU
-VENUE:       Scranton Cultural Center
-LOCATION:    Scranton, PA
-PRICE RANGE: 10 - 10
-GENRE:       Rock and Pop
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Listen-Local-tickets/artist/1625215
-SALE URL:    http://www.ticketmaster.com/event/0200490AB02C7AAD?artistid=1625215&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-31
-ARTIST:      Cartel
-VENUE:       Crocodile Rock
-LOCATION:    Allentown, PA
-PRICE RANGE: 12 - 12
-GENRE:       Rock and Pop
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Cartel-tickets/artist/720721
-SALE URL:    http://www.ticketmaster.com/event/02004917E77E93E0?artistid=720721&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-31
-ARTIST:      Jerry Seinfeld
-VENUE:       Borgata Event Center
-LOCATION:    Atlantic City, NJ
+EVENT DATE:  2012-09-08
+ARTIST:      Powerhouse 2012 ft. Trey Songz, Rick Ross, Brandy & more TBA
+VENUE:       Wells Fargo Center 
+LOCATION:    Philadelphia, PA
 PRICE RANGE: Unavailable
-GENRE:       Comedy
-SALE START:  Fri, 08/31/12 at 10:00 AM
+GENRE:       R&B/Urban Soul
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Jerry-Seinfeld-tickets/artist/795942
-SALE URL:    http://www.ticketmaster.com/event/020048F9FF93B3BA?artistid=795942&majorcatid=10002&minorcatid=51
+ARTIST URL:  http://www.ticketmaster.com/Trey-Songz-tickets/artist/1013523
+SALE URL:    http://www.ticketmaster.com/event/0200491EE93FA528?artistid=1013523&majorcatid=10001&minorcatid=202
 
-EVENT DATE:  2012-09-04
-ARTIST:      Up & Coming Comedy Series
-VENUE:       Scranton Cultural Center
-LOCATION:    Scranton, PA
-PRICE RANGE: 16 - 16
-GENRE:       Comedy
-SALE START:  Tue, 09/04/12 at 10:00 AM
+EVENT DATE:  2012-09-08
+ARTIST:      Parry Adams with Heather Mae
+VENUE:       Club Cafe
+LOCATION:    Pittsburgh, PA
+PRICE RANGE: Unavailable
+GENRE:       Country and Folk
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Up-Coming-Comedy-Series-tickets/artist/1468422
-SALE URL:    http://www.ticketmaster.com/event/02004909ED0595A6?artistid=1468422&majorcatid=10002&minorcatid=51
+ARTIST URL:  http://www.ticketmaster.com/Parry-Adams-tickets/artist/1659635
+SALE URL:    http://www.ticketmaster.com/event/29004925DF5F849B?artistid=1659635&majorcatid=10001&minorcatid=2
 
-EVENT DATE:  2012-08-31
-ARTIST:      Falling In Reverse
+EVENT DATE:  2012-09-08
+ARTIST:      Insane Clown Posse
 VENUE:       STAGE AE
 LOCATION:    Pittsburgh, PA
-PRICE RANGE: 20 - 20
-GENRE:       Hard Rock/Metal
-SALE START:  Fri, 08/31/12 at 10:00 AM
+PRICE RANGE: 28 - 28
+GENRE:       Rap and Hip-Hop
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Falling-In-Reverse-tickets/artist/1601417
-SALE URL:    http://www.ticketmaster.com/event/160049158FE43E87?artistid=1601417&majorcatid=10001&minorcatid=200
+ARTIST URL:  http://www.ticketmaster.com/Insane-Clown-Posse-tickets/artist/777268
+SALE URL:    http://www.ticketmaster.com/event/1600491DF7028C68?artistid=777268&majorcatid=10001&minorcatid=3
+
+EVENT DATE:  2012-09-08
+ARTIST:      Walk Off the Earth
+VENUE:       Mr. Smalls Theatre
+LOCATION:    Millvale, PA
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Walk-Off-the-Earth-tickets/artist/1692033
+SALE URL:    http://www.ticketmaster.com/event/29004924D86A7FD9?artistid=1692033&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-09-08
+ARTIST:      Horse Feathers
+VENUE:       Club Cafe
+LOCATION:    Pittsburgh, PA
+PRICE RANGE: Unavailable
+GENRE:       Alternative Rock
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Horse-Feathers-tickets/artist/1125117
+SALE URL:    http://www.ticketmaster.com/event/2900491D1FD67427?artistid=1125117&majorcatid=10001&minorcatid=60
+
+EVENT DATE:  2012-09-22
+ARTIST:      Lamb of God
+VENUE:       STAGE AE
+LOCATION:    Pittsburgh, PA
+PRICE RANGE: 35 - 35
+GENRE:       Hard Rock/Metal
+SALE START:  Sat, 09/22/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Lamb-of-God-tickets/artist/862390
+SALE URL:    http://www.ticketmaster.com/event/1600491EDA604503?artistid=862390&majorcatid=10001&minorcatid=200
 
 EVENT DATE:  2012-09-15
 ARTIST:      Billy Currington
@@ -168,6 +223,28 @@ ARTIST URL:  http://www.ticketmaster.com/The-Mavericks-tickets/artist/845637
 SALE URL:    http://www.ticketmaster.com/event/190048DAE61545CE?artistid=845637&majorcatid=10001&minorcatid=2
 
 EVENT DATE:  2012-09-15
+ARTIST:      John Fogerty Concert
+VENUE:       Veterans Memorial Coliseum
+LOCATION:    Phoenix, AZ
+PRICE RANGE: 20 - 20
+GENRE:       More Concerts
+SALE START:  Sat, 09/15/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/John-Fogerty-Concert-tickets/artist/1776023
+SALE URL:    http://www.ticketmaster.com/event/19004924C01A2DE3?artistid=1776023&majorcatid=10001&minorcatid=52
+
+EVENT DATE:  2012-09-15
+ARTIST:      Nas Concert
+VENUE:       Veterans Memorial Coliseum
+LOCATION:    Phoenix, AZ
+PRICE RANGE: 15 - 15
+GENRE:       Rap and Hip-Hop
+SALE START:  Sat, 09/15/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Nas-Concert-tickets/artist/1776024
+SALE URL:    http://www.ticketmaster.com/event/19004924C03E2DEB?artistid=1776024&majorcatid=10001&minorcatid=3
+
+EVENT DATE:  2012-09-15
 ARTIST:      Prince Royce
 VENUE:       Veterans Memorial Coliseum
 LOCATION:    Phoenix, AZ
@@ -177,17 +254,6 @@ SALE START:  Sat, 09/15/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Prince-Royce-tickets/artist/1483792
 SALE URL:    http://www.ticketmaster.com/event/190048DAE61845D0?artistid=1483792&majorcatid=10001&minorcatid=40
-
-EVENT DATE:  2012-08-29
-ARTIST:      For Today featuring Impending Doom, the Chariot / Texas In July, Hundr
-VENUE:       Nile Theater
-LOCATION:    Mesa, BC
-PRICE RANGE: Unavailable
-GENRE:       Alternative Rock
-SALE START:  Wed, 08/29/12 at 12:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/For-Today-tickets/artist/1243219
-SALE URL:    http://www.ticketmaster.com/event/29004918D0235798?artistid=1243219&majorcatid=10001&minorcatid=60
 
 EVENT DATE:  2012-09-15
 ARTIST:      Jane's Addiction
@@ -255,6 +321,17 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Old-School-Jam-tickets/artist/876714
 SALE URL:    http://www.ticketmaster.com/event/190048DAE62F45F5?artistid=876714&majorcatid=10001&minorcatid=1
 
+EVENT DATE:  2012-09-15
+ARTIST:      Zendaya Concert
+VENUE:       Veterans Memorial Coliseum
+LOCATION:    Phoenix, AZ
+PRICE RANGE: 15 - 15
+GENRE:       More Concerts
+SALE START:  Sat, 09/15/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Zendaya-Concert-tickets/artist/1776025
+SALE URL:    http://www.ticketmaster.com/event/19004924C05D2DED?artistid=1776025&majorcatid=10001&minorcatid=52
+
 EVENT DATE:  2012-09-10
 ARTIST:      Jackie Evancho
 VENUE:       Talking Stick Resort
@@ -266,71 +343,60 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Jackie-Evancho-tickets/artist/1572855
 SALE URL:    http://www.ticketmaster.com/event/19004909802F2157?artistid=1572855&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-08-31
-ARTIST:      Enrique Bunbury
-VENUE:       Viejas Arena at Aztec Bowl San Diego State University
-LOCATION:    San Diego, CA
-PRICE RANGE: 34 - 89
-GENRE:       Latin
-SALE START:  Fri, 08/31/12 at 01:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Enrique-Bunbury-tickets/artist/796533
-SALE URL:    http://www.ticketmaster.com/event/0A0048F0E4AD412A?artistid=796533&majorcatid=10001&minorcatid=40
-
-EVENT DATE:  2012-08-31
-ARTIST:      Clayton Anderson Band
-VENUE:       Bluebird Nightclub
-LOCATION:    Bloomington, IN
-PRICE RANGE: 10 - 10
-GENRE:       Country and Folk
-SALE START:  Fri, 08/31/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Clayton-Anderson-Band-tickets/artist/1508662
-SALE URL:    http://www.ticketmaster.com/event/0500491A17237E60?artistid=1508662&majorcatid=10001&minorcatid=2
-
-EVENT DATE:  2012-08-31
-ARTIST:      Esperanza Spalding
-VENUE:       Murat Theatre at Old National Centre
-LOCATION:    Indianapolis, IN
-PRICE RANGE: 19.5 - 45
-GENRE:       Jazz and Blues
-SALE START:  Thu, 08/30/12 at 10:00 AM
+EVENT DATE:  2012-09-24
+ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       Jobing.com Arena
+LOCATION:    Glendale, AZ
+PRICE RANGE: 30.1 - 56.1
+GENRE:       World Music
+SALE START:  Fri, 09/21/12 at 10:00 AM
 SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Esperanza-Spalding-tickets/artist/1128661
-SALE URL:    http://www.ticketmaster.com/event/050049188BF7721F?artistid=1128661&majorcatid=10001&minorcatid=4
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/19004907996C3D06?artistid=780815&majorcatid=10001&minorcatid=5
 
-EVENT DATE:  2012-08-31
-ARTIST:      Clayton Anderson Band
-VENUE:       Bluebird Nightclub
-LOCATION:    Bloomington, IN
-PRICE RANGE: 10 - 10
-GENRE:       Country and Folk
-SALE START:  Fri, 08/31/12 at 12:00 PM
+EVENT DATE:  2012-09-24
+ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       Jobing.com Arena
+LOCATION:    Glendale, AZ
+PRICE RANGE: 30.1 - 56.1
+GENRE:       World Music
+SALE START:  Mon, 09/24/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Clayton-Anderson-Band-tickets/artist/1508662
-SALE URL:    http://www.ticketmaster.com/event/0500491A18CD7E8B?artistid=1508662&majorcatid=10001&minorcatid=2
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/1900490793543BA8?artistid=780815&majorcatid=10001&minorcatid=5
 
-EVENT DATE:  2012-08-31
-ARTIST:      Dennis James
-VENUE:       Indiana University Auditorium
-LOCATION:    Bloomington, IN
-PRICE RANGE: 16 - 21
+EVENT DATE:  2012-09-21
+ARTIST:      Nathan Pacheco
+VENUE:       Balboa Theatre
+LOCATION:    San Diego, CA
+PRICE RANGE: 35 - 45
 GENRE:       Miscellaneous
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Dennis-James-tickets/artist/1623506
-SALE URL:    http://www.ticketmaster.com/event/05004906B46195C6?artistid=1623506&majorcatid=10001&minorcatid=107
+SALE START:  Mon, 09/17/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/Nathan-Pacheco-tickets/artist/1750478
+SALE URL:    http://www.ticketmaster.com/event/0A0048DCD0903035?artistid=1750478&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-08-31
-ARTIST:      Bill Maher
-VENUE:       Indiana University Auditorium
-LOCATION:    Bloomington, IN
-PRICE RANGE: 44 - 59
-GENRE:       Comedy
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Classics 4 Kids Presents Pictures At An Exhibition
+VENUE:       Balboa Theatre
+LOCATION:    San Diego, CA
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Mon, 09/10/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Bill-Maher-tickets/artist/821441
-SALE URL:    http://www.ticketmaster.com/event/05004903ACEC9980?artistid=821441&majorcatid=10002&minorcatid=51
+ARTIST URL:  http://www.ticketmaster.com/Pictures-At-an-Exhibition-tickets/artist/834315
+SALE URL:    http://www.ticketmaster.com/event/0A004926B2882BF7?artistid=834315&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-15
+ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       Valley View Casino Center formerly San Diego Sports Arena
+LOCATION:    San Diego, CA
+PRICE RANGE: 30.5 - 60.5
+GENRE:       World Music
+SALE START:  Sat, 09/15/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/2C00490FCEEF59C4?artistid=780815&majorcatid=10001&minorcatid=5
 
 EVENT DATE:  2012-09-14
 ARTIST:      Gov't Mule
@@ -343,104 +409,159 @@ SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/Govt-Mule-tickets/artist/1034781
 SALE URL:    http://www.ticketmaster.com/event/05004911E51DA2B1?artistid=1034781&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-08-31
-ARTIST:      Who's Bad
-VENUE:       Bluebird Nightclub
-LOCATION:    Bloomington, IN
-PRICE RANGE: 7 - 7
-GENRE:       More Concerts
-SALE START:  Fri, 08/31/12 at 12:00 PM
+EVENT DATE:  2012-09-10
+ARTIST:      Salina Symphony: The Poetry of Music
+VENUE:       Stiefel Theatre
+LOCATION:    Salina, KS
+PRICE RANGE: 25 - 25
+GENRE:       Miscellaneous
+SALE START:  Mon, 09/10/12 at 09:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Whos-Bad-tickets/artist/979222
-SALE URL:    http://www.ticketmaster.com/event/0500491A1A907ECE?artistid=979222&majorcatid=10001&minorcatid=52
+ARTIST URL:  http://www.ticketmaster.com/Salina-Symphony-tickets/artist/1494893
+SALE URL:    http://www.ticketmaster.com/event/06004923F8672C78?artistid=1494893&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-08-31
-ARTIST:      Chic Corea and Gary Burton with The Harlem String Quartet
-VENUE:       Gem Theater
-LOCATION:    Kansas City, MO
-PRICE RANGE: 45 - 45
-GENRE:       Jazz and Blues
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Salina Symphony: Celebrate America
+VENUE:       Stiefel Theatre
+LOCATION:    Salina, KS
+PRICE RANGE: 25 - 25
+GENRE:       Miscellaneous
+SALE START:  Mon, 09/10/12 at 09:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Chick-Corea-tickets/artist/768159
-SALE URL:    http://www.ticketmaster.com/event/060048F17FE11CA5?artistid=768159&majorcatid=10001&minorcatid=4
+ARTIST URL:  http://www.ticketmaster.com/Salina-Symphony-tickets/artist/1494893
+SALE URL:    http://www.ticketmaster.com/event/06004923F86B2C7B?artistid=1494893&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-09-05
-ARTIST:      &#34;we Always Swing&#34; Jazz Series Presents Billy Childs Quartet
-VENUE:       Murrys
-LOCATION:    Columbia, MO
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Salina Symphony 2012-2013 Season Package 1
+VENUE:       Stiefel Theatre
+LOCATION:    Salina, KS
+PRICE RANGE: 60 - 110
+GENRE:       Miscellaneous
+SALE START:  Mon, 09/10/12 at 09:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Billy-Childs-tickets/artist/736806
-SALE URL:    http://www.ticketmaster.com/event/06004902AD074AED?artistid=736806&majorcatid=10001&minorcatid=4
+ARTIST URL:  http://www.ticketmaster.com/Salina-Symphony-tickets/artist/1494893
+SALE URL:    http://www.ticketmaster.com/event/06004923EC0F2B40?artistid=1494893&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-08-31
-ARTIST:      Vijay Iyer Piano Trio
-VENUE:       Folly Theater
-LOCATION:    Kansas City, MO
-PRICE RANGE: 18 - 50
-GENRE:       Jazz and Blues
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Salina Symphony 2012-2013 Season Package 2
+VENUE:       Stiefel Theatre
+LOCATION:    Salina, KS
+PRICE RANGE: 60 - 110
+GENRE:       Miscellaneous
+SALE START:  Mon, 09/10/12 at 09:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Vijay-Iyer-tickets/artist/1475201
-SALE URL:    http://www.ticketmaster.com/event/060048CE8CD8A6D2?artistid=1475201&majorcatid=10001&minorcatid=4
+ARTIST URL:  http://www.ticketmaster.com/Salina-Symphony-tickets/artist/1494893
+SALE URL:    http://www.ticketmaster.com/event/06004923EC132B44?artistid=1494893&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-08-31
-ARTIST:      Falling In Reverse
-VENUE:       Beaumont Club
-LOCATION:    Kansas City, MO
-PRICE RANGE: 17 - 17
-GENRE:       Hard Rock/Metal
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Salina Youth Symphony: Fall Concert
+VENUE:       Stiefel Theatre
+LOCATION:    Salina, KS
+PRICE RANGE: 15 - 15
+GENRE:       Miscellaneous
+SALE START:  Mon, 09/10/12 at 09:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Falling-In-Reverse-tickets/artist/1601417
-SALE URL:    http://www.ticketmaster.com/event/0600490DE69E69F6?artistid=1601417&majorcatid=10001&minorcatid=200
+ARTIST URL:  http://www.ticketmaster.com/Salina-Symphony-tickets/artist/1494893
+SALE URL:    http://www.ticketmaster.com/event/0600492494BC4525?artistid=1494893&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-08-31
-ARTIST:      Quiet Corral
+EVENT DATE:  2012-09-08
+ARTIST:      Ill.gates featuring Stephen Jacobs / Jay Fay
 VENUE:       Granada
 LOCATION:    Lawrence, KS
 PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Fri, 08/31/12 at 10:00 AM
+GENRE:       Dance/Electronic
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Quiet-Corral-tickets/artist/1606304
-SALE URL:    http://www.ticketmaster.com/event/290048F0CDCA725B?artistid=1606304&majorcatid=10001&minorcatid=1
+ARTIST URL:  http://www.ticketmaster.com/Illgates-tickets/artist/1571300
+SALE URL:    http://www.ticketmaster.com/event/2900490A26DA4830?artistid=1571300&majorcatid=10001&minorcatid=201
 
-EVENT DATE:  2012-09-05
-ARTIST:      Terell Stafford
-VENUE:       Murrys
-LOCATION:    Columbia, MO
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Terell-Stafford-tickets/artist/772091
-SALE URL:    http://www.ticketmaster.com/event/0600490DA9C356D3?artistid=772091&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-09-05
-ARTIST:      Terell Stafford
-VENUE:       Murrys
-LOCATION:    Columbia, MO
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Terell-Stafford-tickets/artist/772091
-SALE URL:    http://www.ticketmaster.com/event/0600490DA9C656D5?artistid=772091&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-09-01
-ARTIST:      A.J. Croce
-VENUE:       Duling Hall
-LOCATION:    Jackson, MS
-PRICE RANGE: 15 - 15
+EVENT DATE:  2012-09-13
+ARTIST:      New Found Glory
+VENUE:       Bottleneck
+LOCATION:    Lawrence, KS
+PRICE RANGE: 19 - 19
 GENRE:       Alternative Rock
-SALE START:  Fri, 08/31/12 at 10:00 AM
+SALE START:  Thu, 09/13/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/New-Found-Glory-tickets/artist/712420
+SALE URL:    http://www.ticketmaster.com/event/0600491EC81B4A7A?artistid=712420&majorcatid=10001&minorcatid=60
+
+EVENT DATE:  2012-09-15
+ARTIST:      Rock Yourself To Sleep Tour With Dance Gavin Dance
+VENUE:       Beaumont Club
+LOCATION:    Kansas City, MO
+PRICE RANGE: 13 - 13
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/15/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Dance-Gavin-Dance-tickets/artist/1131209
+SALE URL:    http://www.ticketmaster.com/event/06004901ACC042BF?artistid=1131209&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-09-08
+ARTIST:      Butch Clancy and Marquese Scott
+VENUE:       Beaumont Club
+LOCATION:    Kansas City, MO
+PRICE RANGE: 14 - 14
+GENRE:       Dance/Electronic
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Butch-Clancy-tickets/artist/1774496
+SALE URL:    http://www.ticketmaster.com/event/0600491D8FAB297A?artistid=1774496&majorcatid=10001&minorcatid=201
+
+EVENT DATE:  2012-09-08
+ARTIST:      Air Supply
+VENUE:       Cypress Bayou Casino
+LOCATION:    Charenton, LA
+PRICE RANGE: 35 - 35
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Air-Supply-tickets/artist/734403
+SALE URL:    http://www.ticketmaster.com/event/1B00492582E92E49?artistid=734403&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-09-08
+ARTIST:      In This Moment featuring 3 Pill Morning / Tba
+VENUE:       The City Club of Houma
+LOCATION:    Houma, LA
+PRICE RANGE: Unavailable
+GENRE:       Hard Rock/Metal
+SALE START:  Sat, 09/08/12 at 12:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/In-This-Moment-tickets/artist/1179520
+SALE URL:    http://www.ticketmaster.com/event/290049264F398B5B?artistid=1179520&majorcatid=10001&minorcatid=200
+
+EVENT DATE:  2012-09-14
+ARTIST:      John Prine
+VENUE:       Thalia Mara Hall
+LOCATION:    Jackson, MS
+PRICE RANGE: 38.5 - 48.5
+GENRE:       Rock and Pop
+SALE START:  Thu, 09/13/12 at 10:00 AM
 SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/AJ-Croce-tickets/artist/850504
-SALE URL:    http://www.ticketmaster.com/event/1B004917B5FC5797?artistid=850504&majorcatid=10001&minorcatid=60
+ARTIST URL:  http://www.ticketmaster.com/John-Prine-tickets/artist/735898
+SALE URL:    http://www.ticketmaster.com/event/1B004924D3D4710F?artistid=735898&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-09-14
+ARTIST:      Jewel
+VENUE:       New Orleans Convention Center
+LOCATION:    New Orleans, LA
+PRICE RANGE: 35 - 250
+GENRE:       Alternative Rock
+SALE START:  Tue, 09/11/12 at 12:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/Jewel-tickets/artist/723555
+SALE URL:    http://www.ticketmaster.com/event/1B0048C8E0188374?artistid=723555&majorcatid=10001&minorcatid=60
+
+EVENT DATE:  2012-09-14
+ARTIST:      Counting Crows
+VENUE:       Mahalia Jackson Theater for the Performing Arts
+LOCATION:    New Orleans, LA
+PRICE RANGE: 39.75 - 49.75
+GENRE:       Alternative Rock
+SALE START:  Wed, 09/12/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/Counting-Crows-tickets/artist/765319
+SALE URL:    http://www.ticketmaster.com/event/1B004926BF2F5614?artistid=765319&majorcatid=10001&minorcatid=60
 
 EVENT DATE:  2012-10-06
 ARTIST:      Wynonna
@@ -453,17 +574,6 @@ SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/Wynonna-tickets/artist/847506
 SALE URL:    http://www.ticketmaster.com/event/1B0048B884D84BD9?artistid=847506&majorcatid=10001&minorcatid=2
 
-EVENT DATE:  2012-09-07
-ARTIST:      Roky Erickson
-VENUE:       One Eyed Jacks
-LOCATION:    New Orleans, LA
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Fri, 09/07/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Roky-Erickson-tickets/artist/735019
-SALE URL:    http://www.ticketmaster.com/event/2900490E19510CFB?artistid=735019&majorcatid=10001&minorcatid=1
-
 EVENT DATE:  2012-10-19
 ARTIST:      The Midtown Men
 VENUE:       Baton Rouge River Center Theater
@@ -475,115 +585,16 @@ SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/The-Midtown-Men-tickets/artist/1596288
 SALE URL:    http://www.ticketmaster.com/event/1B00487795CE5D58?artistid=1596288&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-08-29
-ARTIST:      Harvard Sailing Team
-VENUE:       Loyola University
+EVENT DATE:  2012-09-08
+ARTIST:      Floodwood-featuring Al & Vinnie From Moe
+VENUE:       8x10
 LOCATION:    Baltimore, MD
-PRICE RANGE: Unavailable
-GENRE:       Comedy
-SALE START:  Wed, 08/29/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Harvard-Sailing-Team-tickets/artist/1772373
-SALE URL:    http://www.ticketmaster.com/event/1500491B86852BC0?artistid=1772373&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-28
-ARTIST:      Gianmarco
-VENUE:       Howard Theatre
-LOCATION:    Washington, DC
-PRICE RANGE: 40 - 40
-GENRE:       Rock and Pop
-SALE START:  Tue, 08/28/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Gianmarco-tickets/artist/999443
-SALE URL:    http://www.ticketmaster.com/event/150049159A403042?artistid=999443&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-05
-ARTIST:      Moscow Sretensky Monastery Choir
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Moscow-Sretensky-Monastery-Choir-tickets/artist/1143174
-SALE URL:    http://www.ticketmaster.com/event/15004914C96D74CD?artistid=1143174&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-05
-ARTIST:      Pamela Frank And Friends
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Pamela-Frank-tickets/artist/804157
-SALE URL:    http://www.ticketmaster.com/event/15004914CAB7753D?artistid=804157&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      Jake Owen
-VENUE:       The Fillmore Silver Spring
-LOCATION:    Silver Spring, MD
-PRICE RANGE: 30 - 30
+PRICE RANGE: 12 - 12
 GENRE:       Country and Folk
-SALE START:  Wed, 08/29/12 at 05:00 PM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Jake-Owen-tickets/artist/1062351
-SALE URL:    http://www.ticketmaster.com/event/1500491833E08099?artistid=1062351&majorcatid=10001&minorcatid=2
-
-EVENT DATE:  2012-09-05
-ARTIST:      Daniel Hope, Violin And Jeffrey Kahane, Piano
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
+SALE START:  Sat, 09/08/12 at 05:00 PM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Daniel-Hope-tickets/artist/1423435
-SALE URL:    http://www.ticketmaster.com/event/15004914FA2C7C84?artistid=1423435&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-05
-ARTIST:      Woodie Guthrie Centennial Celebration
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Country and Folk
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Woody-Guthrie-tickets/artist/851613
-SALE URL:    http://www.ticketmaster.com/event/15004914FB9B7CA5?artistid=851613&majorcatid=10001&minorcatid=2
-
-EVENT DATE:  2012-08-29
-ARTIST:      Tito Puente Jr
-VENUE:       Warner Theatre
-LOCATION:    Washington, DC
-PRICE RANGE: 100 - 100
-GENRE:       Latin
-SALE START:  Wed, 08/29/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Tito-Puente-Jr-tickets/artist/849791
-SALE URL:    http://www.ticketmaster.com/event/15004919F2365D82?artistid=849791&majorcatid=10001&minorcatid=40
-
-EVENT DATE:  2012-09-05
-ARTIST:      Ron Carter Trio
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Ron-Carter-tickets/artist/736790
-SALE URL:    http://www.ticketmaster.com/event/15004914FC4A7CB3?artistid=736790&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-09-05
-ARTIST:      Rose Of Sharon - Joel Frederiksen - 100 Years Of American Music
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Joel-Frederiksen-tickets/artist/1770187
-SALE URL:    http://www.ticketmaster.com/event/15004914FFD87D13?artistid=1770187&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/Floodwoodfeaturing-Al-Vinnie-From-Moe-tickets/artist/1777394
+SALE URL:    http://www.ticketmaster.com/event/1500492649208CDF?artistid=1777394&majorcatid=10001&minorcatid=2
 
 EVENT DATE:  2012-09-19
 ARTIST:      Pieter Wispelwey, cello and Lois Shapiro, piano
@@ -593,19 +604,8 @@ PRICE RANGE: Unavailable
 GENRE:       Classical
 SALE START:  Wed, 09/19/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Pieter-Wispelwey-cello-and-Lois-Shapiro-piano-tickets/artist/1770337
-SALE URL:    http://www.ticketmaster.com/event/15004915F4865A3B?artistid=1770337&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      The Static
-VENUE:       The Fillmore Silver Spring
-LOCATION:    Silver Spring, MD
-PRICE RANGE: 10 - 10
-GENRE:       Rock and Pop
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/The-Static-tickets/artist/1488438
-SALE URL:    http://www.ticketmaster.com/event/1500491ADA2E4025?artistid=1488438&majorcatid=10001&minorcatid=1
+ARTIST URL:  http://www.ticketmaster.com/Pieter-Wispelwey-tickets/artist/1770829
+SALE URL:    http://www.ticketmaster.com/event/15004915F4865A3B?artistid=1770829&majorcatid=10002&minorcatid=203
 
 EVENT DATE:  2012-09-19
 ARTIST:      Subotnick, Labarbara, Lillevan
@@ -618,17 +618,6 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Morton-Subotnick-tickets/artist/1592264
 SALE URL:    http://www.ticketmaster.com/event/15004915F5755A7A?artistid=1592264&majorcatid=10001&minorcatid=52
 
-EVENT DATE:  2012-09-07
-ARTIST:      Smashing Pumpkins
-VENUE:       Patriot Center
-LOCATION:    Fairfax, VA
-PRICE RANGE: 55 - 55
-GENRE:       Alternative Rock
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Smashing-Pumpkins-tickets/artist/736143
-SALE URL:    http://www.ticketmaster.com/event/15004918C92A65A5?artistid=736143&majorcatid=10001&minorcatid=60
-
 EVENT DATE:  2012-09-19
 ARTIST:      Prazak Quartet
 VENUE:       Library of Congress
@@ -640,126 +629,93 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Prazak-Quartet-tickets/artist/822396
 SALE URL:    http://www.ticketmaster.com/event/15004915F5E65A92?artistid=822396&majorcatid=10002&minorcatid=203
 
-EVENT DATE:  2012-09-06
-ARTIST:      Commandant's USMC Birthday Ball
-VENUE:       Gaylord National Resort and Convention Center
-LOCATION:    National Harbor, MD
-PRICE RANGE: 95 - 95
-GENRE:       Miscellaneous
-SALE START:  Thu, 09/06/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Commandants-USMC-Birthday-Ball-tickets/artist/1158119
-SALE URL:    http://www.ticketmaster.com/event/150048B796AE35F5?artistid=1158119&majorcatid=10001&minorcatid=107
-
-EVENT DATE:  2012-08-29
-ARTIST:      Harvard Sailing Team
-VENUE:       Loyola University
-LOCATION:    Baltimore, MD
-PRICE RANGE: Unavailable
-GENRE:       Comedy
-SALE START:  Wed, 08/29/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Harvard-Sailing-Team-tickets/artist/1772373
-SALE URL:    http://www.ticketmaster.com/event/1500491B86852BC0?artistid=1772373&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-28
-ARTIST:      Gianmarco
-VENUE:       Howard Theatre
-LOCATION:    Washington, DC
-PRICE RANGE: 40 - 40
-GENRE:       Rock and Pop
-SALE START:  Tue, 08/28/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Gianmarco-tickets/artist/999443
-SALE URL:    http://www.ticketmaster.com/event/150049159A403042?artistid=999443&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-05
-ARTIST:      Moscow Sretensky Monastery Choir
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Moscow-Sretensky-Monastery-Choir-tickets/artist/1143174
-SALE URL:    http://www.ticketmaster.com/event/15004914C96D74CD?artistid=1143174&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-05
-ARTIST:      Pamela Frank And Friends
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Pamela-Frank-tickets/artist/804157
-SALE URL:    http://www.ticketmaster.com/event/15004914CAB7753D?artistid=804157&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      Jake Owen
+EVENT DATE:  2012-09-14
+ARTIST:      Theory of a Deadman
 VENUE:       The Fillmore Silver Spring
 LOCATION:    Silver Spring, MD
-PRICE RANGE: 30 - 30
-GENRE:       Country and Folk
-SALE START:  Wed, 08/29/12 at 05:00 PM
+PRICE RANGE: 22.5 - 22.5
+GENRE:       Alternative Rock
+SALE START:  Fri, 09/14/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Theory-of-a-Deadman-tickets/artist/841413
+SALE URL:    http://www.ticketmaster.com/event/150048FBF2EB8B0B?artistid=841413&majorcatid=10001&minorcatid=60
+
+EVENT DATE:  2012-09-26
+ARTIST:      Takacs Quartet and Marc-Andre Hamelin
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 09/26/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2605C15?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-26
+ARTIST:      Appollon Musagete Quartet
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 09/26/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2635C17?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-26
+ARTIST:      Country Music Association Songwriters Series
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 09/26/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2665C1D?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-14
+ARTIST:      BOB DYLAN & HIS BAND performing with MARK KNOPFLER
+VENUE:       Verizon Center
+LOCATION:    Washington, DC
+PRICE RANGE: 50 - 129.5
+GENRE:       Rock and Pop
+SALE START:  Mon, 09/10/12 at 10:00 AM
 SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Jake-Owen-tickets/artist/1062351
-SALE URL:    http://www.ticketmaster.com/event/1500491833E08099?artistid=1062351&majorcatid=10001&minorcatid=2
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dylan-tickets/artist/734972
+SALE URL:    http://www.ticketmaster.com/event/1500490D843C210D?artistid=734972&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-09-05
-ARTIST:      Daniel Hope, Violin And Jeffrey Kahane, Piano
+EVENT DATE:  2012-10-17
+ARTIST:      La Risonanza
 VENUE:       Library of Congress
 LOCATION:    Washington, DC
 PRICE RANGE: Unavailable
 GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
+SALE START:  Wed, 10/17/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Daniel-Hope-tickets/artist/1423435
-SALE URL:    http://www.ticketmaster.com/event/15004914FA2C7C84?artistid=1423435&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2325BAD?artistid=1481415&majorcatid=10002&minorcatid=203
 
-EVENT DATE:  2012-09-05
-ARTIST:      Woodie Guthrie Centennial Celebration
+EVENT DATE:  2012-10-17
+ARTIST:      VICTOR HERBERT
 VENUE:       Library of Congress
 LOCATION:    Washington, DC
 PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 10/17/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2355BB2?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-08
+ARTIST:      Floodwood-featuring Al & Vinnie From Moe
+VENUE:       8x10
+LOCATION:    Baltimore, MD
+PRICE RANGE: 12 - 12
 GENRE:       Country and Folk
-SALE START:  Wed, 09/05/12 at 10:00 AM
+SALE START:  Sat, 09/08/12 at 05:00 PM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Woody-Guthrie-tickets/artist/851613
-SALE URL:    http://www.ticketmaster.com/event/15004914FB9B7CA5?artistid=851613&majorcatid=10001&minorcatid=2
-
-EVENT DATE:  2012-08-29
-ARTIST:      Tito Puente Jr
-VENUE:       Warner Theatre
-LOCATION:    Washington, DC
-PRICE RANGE: 100 - 100
-GENRE:       Latin
-SALE START:  Wed, 08/29/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Tito-Puente-Jr-tickets/artist/849791
-SALE URL:    http://www.ticketmaster.com/event/15004919F2365D82?artistid=849791&majorcatid=10001&minorcatid=40
-
-EVENT DATE:  2012-09-05
-ARTIST:      Ron Carter Trio
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Ron-Carter-tickets/artist/736790
-SALE URL:    http://www.ticketmaster.com/event/15004914FC4A7CB3?artistid=736790&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-09-05
-ARTIST:      Rose Of Sharon - Joel Frederiksen - 100 Years Of American Music
-VENUE:       Library of Congress
-LOCATION:    Washington, DC
-PRICE RANGE: Unavailable
-GENRE:       Classical
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Joel-Frederiksen-tickets/artist/1770187
-SALE URL:    http://www.ticketmaster.com/event/15004914FFD87D13?artistid=1770187&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/Floodwoodfeaturing-Al-Vinnie-From-Moe-tickets/artist/1777394
+SALE URL:    http://www.ticketmaster.com/event/1500492649208CDF?artistid=1777394&majorcatid=10001&minorcatid=2
 
 EVENT DATE:  2012-09-19
 ARTIST:      Pieter Wispelwey, cello and Lois Shapiro, piano
@@ -769,19 +725,8 @@ PRICE RANGE: Unavailable
 GENRE:       Classical
 SALE START:  Wed, 09/19/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Pieter-Wispelwey-cello-and-Lois-Shapiro-piano-tickets/artist/1770337
-SALE URL:    http://www.ticketmaster.com/event/15004915F4865A3B?artistid=1770337&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      The Static
-VENUE:       The Fillmore Silver Spring
-LOCATION:    Silver Spring, MD
-PRICE RANGE: 10 - 10
-GENRE:       Rock and Pop
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/The-Static-tickets/artist/1488438
-SALE URL:    http://www.ticketmaster.com/event/1500491ADA2E4025?artistid=1488438&majorcatid=10001&minorcatid=1
+ARTIST URL:  http://www.ticketmaster.com/Pieter-Wispelwey-tickets/artist/1770829
+SALE URL:    http://www.ticketmaster.com/event/15004915F4865A3B?artistid=1770829&majorcatid=10002&minorcatid=203
 
 EVENT DATE:  2012-09-19
 ARTIST:      Subotnick, Labarbara, Lillevan
@@ -794,17 +739,6 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Morton-Subotnick-tickets/artist/1592264
 SALE URL:    http://www.ticketmaster.com/event/15004915F5755A7A?artistid=1592264&majorcatid=10001&minorcatid=52
 
-EVENT DATE:  2012-09-07
-ARTIST:      Smashing Pumpkins
-VENUE:       Patriot Center
-LOCATION:    Fairfax, VA
-PRICE RANGE: 55 - 55
-GENRE:       Alternative Rock
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Smashing-Pumpkins-tickets/artist/736143
-SALE URL:    http://www.ticketmaster.com/event/15004918C92A65A5?artistid=736143&majorcatid=10001&minorcatid=60
-
 EVENT DATE:  2012-09-19
 ARTIST:      Prazak Quartet
 VENUE:       Library of Congress
@@ -816,234 +750,102 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/Prazak-Quartet-tickets/artist/822396
 SALE URL:    http://www.ticketmaster.com/event/15004915F5E65A92?artistid=822396&majorcatid=10002&minorcatid=203
 
-EVENT DATE:  2012-09-06
-ARTIST:      Commandant's USMC Birthday Ball
-VENUE:       Gaylord National Resort and Convention Center
-LOCATION:    National Harbor, MD
-PRICE RANGE: 95 - 95
-GENRE:       Miscellaneous
-SALE START:  Thu, 09/06/12 at 10:00 AM
+EVENT DATE:  2012-09-14
+ARTIST:      Theory of a Deadman
+VENUE:       The Fillmore Silver Spring
+LOCATION:    Silver Spring, MD
+PRICE RANGE: 22.5 - 22.5
+GENRE:       Alternative Rock
+SALE START:  Fri, 09/14/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Commandants-USMC-Birthday-Ball-tickets/artist/1158119
-SALE URL:    http://www.ticketmaster.com/event/150048B796AE35F5?artistid=1158119&majorcatid=10001&minorcatid=107
+ARTIST URL:  http://www.ticketmaster.com/Theory-of-a-Deadman-tickets/artist/841413
+SALE URL:    http://www.ticketmaster.com/event/150048FBF2EB8B0B?artistid=841413&majorcatid=10001&minorcatid=60
 
-EVENT DATE:  2012-08-29
-ARTIST:      Bombino
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
+EVENT DATE:  2012-09-26
+ARTIST:      Takacs Quartet and Marc-Andre Hamelin
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 09/26/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2605C15?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-26
+ARTIST:      Appollon Musagete Quartet
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 09/26/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2635C17?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-26
+ARTIST:      Country Music Association Songwriters Series
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 09/26/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2665C1D?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-14
+ARTIST:      BOB DYLAN & HIS BAND performing with MARK KNOPFLER
+VENUE:       Verizon Center
+LOCATION:    Washington, DC
+PRICE RANGE: 50 - 129.5
+GENRE:       Rock and Pop
+SALE START:  Mon, 09/10/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/Bob-Dylan-tickets/artist/734972
+SALE URL:    http://www.ticketmaster.com/event/1500490D843C210D?artistid=734972&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-10-17
+ARTIST:      La Risonanza
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 10/17/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2325BAD?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-10-17
+ARTIST:      VICTOR HERBERT
+VENUE:       Library of Congress
+LOCATION:    Washington, DC
+PRICE RANGE: Unavailable
+GENRE:       Classical
+SALE START:  Wed, 10/17/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Concerts-From-the-Library-of-Congress-tickets/artist/1481415
+SALE URL:    http://www.ticketmaster.com/event/15004926B2355BB2?artistid=1481415&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-21
+ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       Breslin Center
+LOCATION:    East Lansing, MI
 PRICE RANGE: Unavailable
 GENRE:       World Music
-SALE START:  Wed, 08/29/12 at 12:00 PM
+SALE START:  Fri, 09/21/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Bombino-tickets/artist/1577943
-SALE URL:    http://www.ticketmaster.com/event/290049193319620F?artistid=1577943&majorcatid=10001&minorcatid=5
-
-EVENT DATE:  2012-08-29
-ARTIST:      Jaill featuring Fergus & Geronimo
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Alternative Rock
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Jaill-tickets/artist/1485541
-SALE URL:    http://www.ticketmaster.com/event/2900491935706211?artistid=1485541&majorcatid=10001&minorcatid=60
-
-EVENT DATE:  2012-08-29
-ARTIST:      Kenny Tudrick
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Kenny-Tudrick-tickets/artist/1768185
-SALE URL:    http://www.ticketmaster.com/event/29004919369C6213?artistid=1768185&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-29
-ARTIST:      Wreckless Eric & Amy Rigby
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Wreckless-Eric-Amy-Rigby-tickets/artist/1251612
-SALE URL:    http://www.ticketmaster.com/event/2900491938F66215?artistid=1251612&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-29
-ARTIST:      Wayne Krantz
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Wayne-Krantz-tickets/artist/737319
-SALE URL:    http://www.ticketmaster.com/event/290049193C776217?artistid=737319&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-08-29
-ARTIST:      Amy Black Band
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Country and Folk
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Amy-Black-Band-tickets/artist/1772287
-SALE URL:    http://www.ticketmaster.com/event/290049193FFC621B?artistid=1772287&majorcatid=10001&minorcatid=2
-
-EVENT DATE:  2012-08-29
-ARTIST:      James McMurtry
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/James-McMurtry-tickets/artist/1356659
-SALE URL:    http://www.ticketmaster.com/event/2900491961F8621F?artistid=1356659&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-10
-ARTIST:      Spank!
-VENUE:       CityStage
-LOCATION:    Springfield, MA
-PRICE RANGE: 31.25 - 41.25
-GENRE:       Comedy
-SALE START:  Thu, 09/06/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Spank-tickets/artist/1569343
-SALE URL:    http://www.ticketmaster.com/event/01004918CB4A99EF?artistid=1569343&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-29
-ARTIST:      Bronze Radio Return
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Bronze-Radio-Return-tickets/artist/1565709
-SALE URL:    http://www.ticketmaster.com/event/2900491964506221?artistid=1565709&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-10
-ARTIST:      Spank!
-VENUE:       CityStage
-LOCATION:    Springfield, MA
-PRICE RANGE: 31.25 - 41.25
-GENRE:       Comedy
-SALE START:  Thu, 09/06/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Spank-tickets/artist/1569343
-SALE URL:    http://www.ticketmaster.com/event/01004918CB4C9A03?artistid=1569343&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-09-10
-ARTIST:      Spank!
-VENUE:       CityStage
-LOCATION:    Springfield, MA
-PRICE RANGE: 31.25 - 41.25
-GENRE:       Comedy
-SALE START:  Thu, 09/06/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Spank-tickets/artist/1569343
-SALE URL:    http://www.ticketmaster.com/event/01004918CB4F9A05?artistid=1569343&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-09-10
-ARTIST:      Spank!
-VENUE:       CityStage
-LOCATION:    Springfield, MA
-PRICE RANGE: 31.25 - 41.25
-GENRE:       Comedy
-SALE START:  Thu, 09/06/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Spank-tickets/artist/1569343
-SALE URL:    http://www.ticketmaster.com/event/01004918CB519A17?artistid=1569343&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-31
-ARTIST:      Jessica Kirson
-VENUE:       Mohegan Sun Cabaret
-LOCATION:    Uncasville, CT
-PRICE RANGE: 22 - 22
-GENRE:       Comedy
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Jessica-Kirson-tickets/artist/1486100
-SALE URL:    http://www.ticketmaster.com/event/1D004919FAF36B61?artistid=1486100&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-29
-ARTIST:      Perfume Genius featuring Dusted
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Perfume-Genius-tickets/artist/1451861
-SALE URL:    http://www.ticketmaster.com/event/2900491966A86227?artistid=1451861&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-29
-ARTIST:      Tift Merritt featuring the Pines
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Tift-Merritt-tickets/artist/836937
-SALE URL:    http://www.ticketmaster.com/event/290049196900622D?artistid=836937&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-31
-ARTIST:      Angel Salazar
-VENUE:       Mohegan Sun Cabaret
-LOCATION:    Uncasville, CT
-PRICE RANGE: 22 - 22
-GENRE:       Comedy
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Angel-Salazar-tickets/artist/853745
-SALE URL:    http://www.ticketmaster.com/event/1D004919007F6DA5?artistid=853745&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-29
-ARTIST:      Wanda Jackson featuring Daniel Romano
-VENUE:       Johnny D&#39;s Uptown Restaurant & Music Club
-LOCATION:    Somerville, MA
-PRICE RANGE: Unavailable
-GENRE:       Country and Folk
-SALE START:  Wed, 08/29/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Daniel-Romano-tickets/artist/1479925
-SALE URL:    http://www.ticketmaster.com/event/290049196B596239?artistid=1479925&majorcatid=10001&minorcatid=2
-
-EVENT DATE:  2012-08-31
-ARTIST:      Colin Kane
-VENUE:       Mohegan Sun Cabaret
-LOCATION:    Uncasville, CT
-PRICE RANGE: 22 - 22
-GENRE:       Comedy
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Colin-Kane-tickets/artist/1545578
-SALE URL:    http://www.ticketmaster.com/event/1D004919043D6E88?artistid=1545578&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-08-30
-ARTIST:      Conspirator
-VENUE:       Saint Andrews Hall
-LOCATION:    Detroit, MI
-PRICE RANGE: 20 - 20
-GENRE:       Rock and Pop
-SALE START:  Tue, 08/28/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Conspirator-tickets/artist/997799
-SALE URL:    http://www.ticketmaster.com/event/08004917F1404A4C?artistid=997799&majorcatid=10001&minorcatid=1
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/0800491FDE474412?artistid=780815&majorcatid=10001&minorcatid=5
 
 EVENT DATE:  2012-09-14
 ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
 VENUE:       Huntington Center
 LOCATION:    Toledo, OH
-PRICE RANGE: 37.5 - 57.5
+PRICE RANGE: 38.5 - 58.5
 GENRE:       World Music
-SALE START:  Fri, 09/14/12 at 10:00 AM
-SALE TYPE:   Normal Sale
+SALE START:  Wed, 09/12/12 at 10:00 AM
+SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
 SALE URL:    http://www.ticketmaster.com/event/08004906AF6C327F?artistid=780815&majorcatid=10001&minorcatid=5
 
@@ -1051,100 +853,23 @@ EVENT DATE:  2012-09-14
 ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
 VENUE:       Huntington Center
 LOCATION:    Toledo, OH
-PRICE RANGE: 29 - 57.5
+PRICE RANGE: 30 - 58.5
 GENRE:       World Music
-SALE START:  Fri, 09/14/12 at 10:00 AM
-SALE TYPE:   Normal Sale
+SALE START:  Wed, 09/12/12 at 10:00 AM
+SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
 SALE URL:    http://www.ticketmaster.com/event/08004906AF6F328D?artistid=780815&majorcatid=10001&minorcatid=5
 
-EVENT DATE:  2012-09-05
-ARTIST:      &#34;we Always Swing&#34; Jazz Series Presents Billy Childs Quartet
-VENUE:       Murrys
-LOCATION:    Columbia, MO
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Billy-Childs-tickets/artist/736806
-SALE URL:    http://www.ticketmaster.com/event/06004902AD074AED?artistid=736806&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-08-31
-ARTIST:      Falling In Reverse
-VENUE:       Pops
-LOCATION:    Sauget, IL
-PRICE RANGE: 18 - 18
-GENRE:       Hard Rock/Metal
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Falling-In-Reverse-tickets/artist/1601417
-SALE URL:    http://www.ticketmaster.com/event/06004918D6E95814?artistid=1601417&majorcatid=10001&minorcatid=200
-
-EVENT DATE:  2012-09-05
-ARTIST:      Terell Stafford
-VENUE:       Murrys
-LOCATION:    Columbia, MO
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Terell-Stafford-tickets/artist/772091
-SALE URL:    http://www.ticketmaster.com/event/0600490DA9C356D3?artistid=772091&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-09-05
-ARTIST:      Terell Stafford
-VENUE:       Murrys
-LOCATION:    Columbia, MO
-PRICE RANGE: Unavailable
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Terell-Stafford-tickets/artist/772091
-SALE URL:    http://www.ticketmaster.com/event/0600490DA9C656D5?artistid=772091&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-09-05
-ARTIST:      Hilaro Duran and Jane Bunnett with Candido Camero
-VENUE:       Rogers Whitmore Recital Hall
-LOCATION:    Columbia, MO
-PRICE RANGE: 29 - 35
-GENRE:       Jazz and Blues
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Hilario-Duran-tickets/artist/1611463
-SALE URL:    http://www.ticketmaster.com/event/06004902B4A34D7A?artistid=1611463&majorcatid=10001&minorcatid=4
-
-EVENT DATE:  2012-09-04
-ARTIST:      Sioux City Symphony: Opening Night
-VENUE:       Orpheum Theatre Sioux City
-LOCATION:    Sioux City, IA
-PRICE RANGE: 12.5 - 47.5
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Sioux-City-Symphony-tickets/artist/889035
-SALE URL:    http://www.ticketmaster.com/event/06004914BD025F01?artistid=889035&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-07
-ARTIST:      Under the Streetlamp
-VENUE:       Orpheum Theatre Sioux City
-LOCATION:    Sioux City, IA
-PRICE RANGE: 25 - 47.5
+EVENT DATE:  2012-09-14
+ARTIST:      The J. Geils Band
+VENUE:       The Fillmore Detroit
+LOCATION:    Detroit, MI
+PRICE RANGE: 49.5 - 99.5
 GENRE:       Rock and Pop
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Under-the-Streetlamp-tickets/artist/1612161
-SALE URL:    http://www.ticketmaster.com/event/06004886D392F2F5?artistid=1612161&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-04
-ARTIST:      Sioux City Symphony: Live And Let Die - Music Of Paul McCartney
-VENUE:       Orpheum Theatre Sioux City
-LOCATION:    Sioux City, IA
-PRICE RANGE: 12.5 - 47.5
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
+SALE START:  Fri, 09/14/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Sioux-City-Symphony-tickets/artist/889035
-SALE URL:    http://www.ticketmaster.com/event/06004914BD055F03?artistid=889035&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/The-J-Geils-Band-tickets/artist/1291332
+SALE URL:    http://www.ticketmaster.com/event/080048ECB5855F44?artistid=1291332&majorcatid=10001&minorcatid=1
 
 EVENT DATE:  2012-09-21
 ARTIST:      Sioux City Rockestra
@@ -1161,513 +886,326 @@ EVENT DATE:  2012-09-14
 ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
 VENUE:       Mid-America Center
 LOCATION:    Council Bluffs, IA
-PRICE RANGE: 29 - 56.5
+PRICE RANGE: 30 - 57.5
 GENRE:       World Music
 SALE START:  Thu, 09/13/12 at 10:00 AM
 SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
 SALE URL:    http://www.ticketmaster.com/event/06004907FDEF5B32?artistid=780815&majorcatid=10001&minorcatid=5
 
-EVENT DATE:  2012-09-04
-ARTIST:      Sioux City Symphony: Tine Thing Helseth, Trumpet
+EVENT DATE:  2012-09-21
+ARTIST:      Sioux City Rockestra
 VENUE:       Orpheum Theatre Sioux City
 LOCATION:    Sioux City, IA
-PRICE RANGE: 12.5 - 47.5
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Sioux-City-Symphony-tickets/artist/889035
-SALE URL:    http://www.ticketmaster.com/event/06004914BD085F0A?artistid=889035&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      Greensboro Symphony - Dmitry Sitkovetsky, Violin
-VENUE:       Greensboro Coliseum Complex
-LOCATION:    Greensboro, NC
-PRICE RANGE: 24 - 42
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 11:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Greensboro-Symphony-Orchestra-tickets/artist/803830
-SALE URL:    http://www.ticketmaster.com/event/0E0048BDD1487BC0?artistid=803830&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      Greensboro Symphony - Dmitry Sitkovetsky, Violin
-VENUE:       Greensboro Coliseum Complex
-LOCATION:    Greensboro, NC
-PRICE RANGE: 24 - 42
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 11:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Greensboro-Symphony-Orchestra-tickets/artist/803830
-SALE URL:    http://www.ticketmaster.com/event/0E0048BD015CBA21?artistid=803830&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      Greensboro Symphony - Mayuko Kamio, Violin
-VENUE:       Greensboro Coliseum Complex
-LOCATION:    Greensboro, NC
-PRICE RANGE: 24 - 42
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 11:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Greensboro-Symphony-Orchestra-tickets/artist/803830
-SALE URL:    http://www.ticketmaster.com/event/0E0048BDD3367F4E?artistid=803830&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      We Are Public Radio W/ Goodbye River
-VENUE:       Musica
-LOCATION:    Akron, OH
-PRICE RANGE: Unavailable
+PRICE RANGE: 18.5 - 31.5
 GENRE:       Rock and Pop
-SALE START:  Fri, 08/31/12 at 10:00 AM
+SALE START:  Fri, 09/21/12 at 10:30 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/We-Are-Public-Radio-W-Goodbye-River-tickets/artist/1772156
-SALE URL:    http://www.ticketmaster.com/event/2900491815CD5D5A?artistid=1772156&majorcatid=10001&minorcatid=1
+ARTIST URL:  http://www.ticketmaster.com/Sioux-City-Rockestra-tickets/artist/1606193
+SALE URL:    http://www.ticketmaster.com/event/06004891FC8A1F2D?artistid=1606193&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-09-07
-ARTIST:      Tommy Igoe & The Birdland Big Band
-VENUE:       E.J. Thomas Hall - The University of Akron
-LOCATION:    Akron, OH
-PRICE RANGE: 22 - 22
-GENRE:       Jazz and Blues
-SALE START:  Fri, 09/07/12 at 11:00 AM
+EVENT DATE:  2012-09-14
+ARTIST:      Charleston Concert Association presents Here to Stay: Gershwin Exprnce
+VENUE:       Sottile Theatre
+LOCATION:    Charleston, SC
+PRICE RANGE: 75 - 125
+GENRE:       Classical
+SALE START:  Fri, 09/14/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Tommy-Igoe-tickets/artist/1752945
-SALE URL:    http://www.ticketmaster.com/event/05004916BA6E99BC?artistid=1752945&majorcatid=10001&minorcatid=4
+ARTIST URL:  http://www.ticketmaster.com/Here-To-Stay-Gershwin-Experience-tickets/artist/1776623
+SALE URL:    http://www.ticketmaster.com/event/0E004925D5517424?artistid=1776623&majorcatid=10002&minorcatid=203
 
-EVENT DATE:  2012-09-07
-ARTIST:      House of Heroes
-VENUE:       Musica
-LOCATION:    Akron, OH
-PRICE RANGE: Unavailable
+EVENT DATE:  2012-09-14
+ARTIST:      John Prine
+VENUE:       U.S. Cellular Center Asheville (formerly Asheville Civic Center)
+LOCATION:    Asheville, NC
+PRICE RANGE: 40.5 - 50.5
 GENRE:       Rock and Pop
-SALE START:  Fri, 09/07/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/House-of-Heroes-tickets/artist/1021825
-SALE URL:    http://www.ticketmaster.com/event/2900491A4F4162EF?artistid=1021825&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-07
-ARTIST:      The Traveling Nightmare
-VENUE:       Akron Civic Theatre
-LOCATION:    Akron, OH
-PRICE RANGE: 15 - 15
-GENRE:       Hard Rock/Metal
-SALE START:  Fri, 09/07/12 at 11:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/The-Traveling-Nightmare-tickets/artist/1766736
-SALE URL:    http://www.ticketmaster.com/event/0500490DDBD89E53?artistid=1766736&majorcatid=10001&minorcatid=200
-
-EVENT DATE:  2012-08-31
-ARTIST:      Falling In Reverse
-VENUE:       House of Blues Cleveland
-LOCATION:    Cleveland, OH
-PRICE RANGE: 18.5 - 18.5
-GENRE:       Hard Rock/Metal
-SALE START:  Wed, 08/29/12 at 10:00 AM
+SALE START:  Thu, 09/13/12 at 10:00 AM
 SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Falling-In-Reverse-tickets/artist/1601417
-SALE URL:    http://www.ticketmaster.com/event/0500490F93E64A8D?artistid=1601417&majorcatid=10001&minorcatid=200
+ARTIST URL:  http://www.ticketmaster.com/John-Prine-tickets/artist/735898
+SALE URL:    http://www.ticketmaster.com/event/0E004924988B5123?artistid=735898&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-09-07
-ARTIST:      Helen Welch
-VENUE:       Akron Civic Theatre
-LOCATION:    Akron, OH
-PRICE RANGE: 25 - 25
-GENRE:       Jazz and Blues
-SALE START:  Fri, 09/07/12 at 11:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Mary Mary
+VENUE:       North Charleston Performing Arts Center
+LOCATION:    North Charleston, SC
+PRICE RANGE: 30 - 36
+GENRE:       New Age and Spiritual
+SALE START:  Mon, 09/10/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Helen-Welch-tickets/artist/1480569
-SALE URL:    http://www.ticketmaster.com/event/0500490FA9E76353?artistid=1480569&majorcatid=10001&minorcatid=4
+ARTIST URL:  http://www.ticketmaster.com/Mary-Mary-tickets/artist/776355
+SALE URL:    http://www.ticketmaster.com/event/0E00491CC7027030?artistid=776355&majorcatid=10001&minorcatid=50
 
-EVENT DATE:  2012-08-31
-ARTIST:      Blood On the Dance Floor
-VENUE:       Peabody&#39;s
-LOCATION:    Cleveland, OH
-PRICE RANGE: Unavailable
-GENRE:       Dance/Electronic
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-14
+ARTIST:      Charleston Concert Association presents Warsaw Philharmonic
+VENUE:       Sottile Theatre
+LOCATION:    Charleston, SC
+PRICE RANGE: 75 - 125
+GENRE:       Classical
+SALE START:  Fri, 09/14/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Blood-On-the-Dance-Floor-tickets/artist/1483828
-SALE URL:    http://www.ticketmaster.com/event/29004919EFC45FA3?artistid=1483828&majorcatid=10001&minorcatid=201
+ARTIST URL:  http://www.ticketmaster.com/Warsaw-Philharmonic-Orchestra-tickets/artist/913952
+SALE URL:    http://www.ticketmaster.com/event/0E004925D562742C?artistid=913952&majorcatid=10002&minorcatid=203
 
-EVENT DATE:  2012-09-05
-ARTIST:      MAGNUSON
-VENUE:       House of Blues Cleveland
-LOCATION:    Cleveland, OH
-PRICE RANGE: 24 - 24
-GENRE:       Alternative Rock
-SALE START:  Wed, 09/05/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/MAGNUSON-tickets/artist/1718148
-SALE URL:    http://www.ticketmaster.com/event/050048FB963A6DD0?artistid=1718148&majorcatid=10001&minorcatid=60
-
-EVENT DATE:  2012-09-01
-ARTIST:      The Glombies
-VENUE:       House of Blues Cleveland
-LOCATION:    Cleveland, OH
-PRICE RANGE: 22 - 22
-GENRE:       Alternative Rock
-SALE START:  Sat, 09/01/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/The-Glombies-tickets/artist/1723015
-SALE URL:    http://www.ticketmaster.com/event/050048FB96496DED?artistid=1723015&majorcatid=10001&minorcatid=60
-
-EVENT DATE:  2012-09-07
-ARTIST:      The Strange Familiar
-VENUE:       Musica
-LOCATION:    Akron, OH
-PRICE RANGE: Unavailable
-GENRE:       Rock and Pop
-SALE START:  Fri, 09/07/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/The-Strange-Familiar-tickets/artist/1614456
-SALE URL:    http://www.ticketmaster.com/event/2900491A519062F1?artistid=1614456&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-07
-ARTIST:      An Evening with Jake Shimabukuro
-VENUE:       E.J. Thomas Hall - The University of Akron
-LOCATION:    Akron, OH
-PRICE RANGE: 22 - 177
-GENRE:       Rock and Pop
-SALE START:  Tue, 09/04/12 at 10:00 AM
+EVENT DATE:  2012-09-17
+ARTIST:      North Charleston Pops! Presents: We Will Never Forget
+VENUE:       North Charleston Performing Arts Center
+LOCATION:    North Charleston, SC
+PRICE RANGE: 15 - 35
+GENRE:       Classical
+SALE START:  Thu, 09/13/12 at 10:00 AM
 SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.com/Jake-Shimabukuro-tickets/artist/977545
-SALE URL:    http://www.ticketmaster.com/event/05004916B78098A4?artistid=977545&majorcatid=10001&minorcatid=1
+ARTIST URL:  http://www.ticketmaster.com/North-Charleston-Pops-tickets/artist/1765871
+SALE URL:    http://www.ticketmaster.com/event/0E0048B8A4EE78CB?artistid=1765871&majorcatid=10002&minorcatid=203
 
-EVENT DATE:  2012-08-29
-ARTIST:      ProMusica Chamber Orchestra Opening Night
-VENUE:       Southern Theatre
+EVENT DATE:  2012-09-14
+ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       BI-LO Center
+LOCATION:    Greenville, SC
+PRICE RANGE: 30 - 59.5
+GENRE:       World Music
+SALE START:  Wed, 09/12/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/0E004906D766C90D?artistid=780815&majorcatid=10001&minorcatid=5
+
+EVENT DATE:  2012-09-14
+ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       BI-LO Center
+LOCATION:    Greenville, SC
+PRICE RANGE: 30 - 59.5
+GENRE:       World Music
+SALE START:  Wed, 09/12/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/0E004906D761C90B?artistid=780815&majorcatid=10001&minorcatid=5
+
+EVENT DATE:  2012-09-21
+ARTIST:       Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       Greensboro Coliseum Complex
+LOCATION:    Greensboro, NC
+PRICE RANGE: 30 - 70.5
+GENRE:       World Music
+SALE START:  Wed, 09/19/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/0E0048ECB84772C0?artistid=780815&majorcatid=10001&minorcatid=5
+
+EVENT DATE:  2012-09-21
+ARTIST:       Hallmark Channel Presents Trans-Siberian Orchestra 2012
+VENUE:       Greensboro Coliseum Complex
+LOCATION:    Greensboro, NC
+PRICE RANGE: 30 - 70.5
+GENRE:       World Music
+SALE START:  Wed, 09/19/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
+SALE URL:    http://www.ticketmaster.com/event/0E0048ECB86472E6?artistid=780815&majorcatid=10001&minorcatid=5
+
+EVENT DATE:  2012-09-13
+ARTIST:      New Found Glory featuring Sticks and Stones Tour
+VENUE:       Grog Shop
+LOCATION:    Cleveland, OH
+PRICE RANGE: Unavailable
+GENRE:       Alternative Rock
+SALE START:  Thu, 09/13/12 at 12:00 PM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/New-Found-Glory-tickets/artist/712420
+SALE URL:    http://www.ticketmaster.com/event/2900491B21056689?artistid=712420&majorcatid=10001&minorcatid=60
+
+EVENT DATE:  2012-09-08
+ARTIST:      Twenty One Pilots
+VENUE:       Lifestyle Communities Pavilion
 LOCATION:    Columbus, OH
-PRICE RANGE: 25 - 46
-GENRE:       Classical
-SALE START:  Wed, 08/29/12 at 10:00 AM
+PRICE RANGE: 15 - 15
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/ProMusica-Chamber-Orchestra-tickets/artist/839238
-SALE URL:    http://www.ticketmaster.com/event/050048AE732F1E7C?artistid=839238&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/Twenty-One-Pilots-tickets/artist/1495843
+SALE URL:    http://www.ticketmaster.com/event/0500491DD2A99808?artistid=1495843&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-08-31
-ARTIST:      Falling In Reverse
+EVENT DATE:  2012-09-08
+ARTIST:      Insane Clown Posse
+VENUE:       Lifestyle Communities Pavilion
+LOCATION:    Columbus, OH
+PRICE RANGE: 32 - 32
+GENRE:       Rap and Hip-Hop
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Insane-Clown-Posse-tickets/artist/777268
+SALE URL:    http://www.ticketmaster.com/event/0500491DD79F9CEB?artistid=777268&majorcatid=10001&minorcatid=3
+
+EVENT DATE:  2012-09-08
+ARTIST:      Old Crow Medicine Show
+VENUE:       Lifestyle Communities Pavilion
+LOCATION:    Columbus, OH
+PRICE RANGE: 35 - 35
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Old-Crow-Medicine-Show-tickets/artist/903674
+SALE URL:    http://www.ticketmaster.com/event/05004924BAE8B957?artistid=903674&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-09-08
+ARTIST:      CityMusic presents Project Trio
+VENUE:       Via Vecchia Winery
+LOCATION:    Columbus, OH
+PRICE RANGE: 25 - 25
+GENRE:       Classical
+SALE START:  Sat, 09/08/12 at 09:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Project-Trio-tickets/artist/1481332
+SALE URL:    http://www.ticketmaster.com/event/05004925E63DFBC3?artistid=1481332&majorcatid=10002&minorcatid=203
+
+EVENT DATE:  2012-09-08
+ARTIST:      CityMusic presents Bill Miller
+VENUE:       Via Vecchia Winery
+LOCATION:    Columbus, OH
+PRICE RANGE: 25 - 25
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/08/12 at 09:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Bill-Miller-tickets/artist/762884
+SALE URL:    http://www.ticketmaster.com/event/05004926CA2285F0?artistid=762884&majorcatid=10001&minorcatid=1
+
+EVENT DATE:  2012-09-08
+ARTIST:      CityMusic presents David Broza
+VENUE:       Lincoln Theatre
+LOCATION:    COLUMBUS, OH
+PRICE RANGE: 26 - 26
+GENRE:       Country and Folk
+SALE START:  Sat, 09/08/12 at 09:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/David-Broza-tickets/artist/752760
+SALE URL:    http://www.ticketmaster.com/event/05004924A9C4ACFF?artistid=752760&majorcatid=10001&minorcatid=2
+
+EVENT DATE:  2012-09-08
+ARTIST:      Central Ohio Bengali Cultural Assoc presents Nirmitee
+VENUE:       Capitol Theatre
+LOCATION:    Columbus, OH
+PRICE RANGE: 16 - 51
+GENRE:       World Music
+SALE START:  Sat, 09/08/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Nirmitee-tickets/artist/1774492
+SALE URL:    http://www.ticketmaster.com/event/0500491D90F94918?artistid=1774492&majorcatid=10001&minorcatid=5
+
+EVENT DATE:  2012-09-08
+ARTIST:      The Regrettes
 VENUE:       Newport Music Hall
 LOCATION:    Columbus, OH
-PRICE RANGE: 18 - 18
-GENRE:       Hard Rock/Metal
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Falling-In-Reverse-tickets/artist/1601417
-SALE URL:    http://www.ticketmaster.com/event/05004915914448B5?artistid=1601417&majorcatid=10001&minorcatid=200
-
-EVENT DATE:  2012-08-29
-ARTIST:      Promusica Chamber Orchestra Presents Mozart and the Masters
-VENUE:       Southern Theatre
-LOCATION:    Columbus, OH
-PRICE RANGE: 25 - 46
-GENRE:       Classical
-SALE START:  Wed, 08/29/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/ProMusica-Chamber-Orchestra-tickets/artist/839238
-SALE URL:    http://www.ticketmaster.com/event/050048ABDA62DAA2?artistid=839238&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-29
-ARTIST:      Promusica Chamber Orchestra Presents Mozart and the Masters
-VENUE:       Southern Theatre
-LOCATION:    Columbus, OH
-PRICE RANGE: 25 - 46
-GENRE:       Classical
-SALE START:  Wed, 08/29/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/ProMusica-Chamber-Orchestra-tickets/artist/839238
-SALE URL:    http://www.ticketmaster.com/event/050048ABE974E05A?artistid=839238&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-30
-ARTIST:      River Club: Zane Williams and special guest
-VENUE:       FC Dallas Stadium
-LOCATION:    Frisco, TX
-PRICE RANGE: 12 - 30
-GENRE:       Country and Folk
-SALE START:  Thu, 08/30/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/River-Club-Zane-Williams-and-special-guest-tickets/artist/1772066
-SALE URL:    http://www.ticketmaster.com/event/0C004918FB1ACD63?artistid=1772066&majorcatid=10001&minorcatid=2
-
-EVENT DATE:  2012-08-31
-ARTIST:      Family Classic Series: Halloween Spooktacular!
-VENUE:       QPWZL - Small Venue San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 16 - 16
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C0049158E003987?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-01
-ARTIST:      Glass Cactus Presents Bob Schneiders
-VENUE:       GLASS CACTUS NIGHTCLUB
-LOCATION:    Grapevine, TX
 PRICE RANGE: 10 - 10
-GENRE:       Alternative Rock
-SALE START:  Sat, 09/01/12 at 09:00 AM
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Bob-Schneider-tickets/artist/763765
-SALE URL:    http://www.ticketmaster.com/event/0C004915CE9180D4?artistid=763765&majorcatid=10001&minorcatid=60
+ARTIST URL:  http://www.ticketmaster.com/The-Regrettes-tickets/artist/1775778
+SALE URL:    http://www.ticketmaster.com/event/0500491D19E0C65E?artistid=1775778&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-08-31
-ARTIST:      Gary Allan
+EVENT DATE:  2012-09-08
+ARTIST:      CityMusic presents Silk Road Journey
+VENUE:       Lincoln Theatre
+LOCATION:    COLUMBUS, OH
+PRICE RANGE: 26 - 26
+GENRE:       Country and Folk
+SALE START:  Sat, 09/08/12 at 09:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/CityMusic-presents-Silk-Road-Journey-tickets/artist/1775788
+SALE URL:    http://www.ticketmaster.com/event/05004924AB6AAF10?artistid=1775788&majorcatid=10001&minorcatid=2
+
+EVENT DATE:  2012-09-22
+ARTIST:      Lamb of God
+VENUE:       Lifestyle Communities Pavilion
+LOCATION:    Columbus, OH
+PRICE RANGE: 35 - 35
+GENRE:       Hard Rock/Metal
+SALE START:  Sat, 09/22/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/Lamb-of-God-tickets/artist/862390
+SALE URL:    http://www.ticketmaster.com/event/0500491ED7DB9213?artistid=862390&majorcatid=10001&minorcatid=200
+
+EVENT DATE:  2012-09-21
+ARTIST:      Dave Koz
+VENUE:       Palace Theatre Columbus
+LOCATION:    Columbus, OH
+PRICE RANGE: 28 - 65.5
+GENRE:       Jazz and Blues
+SALE START:  Wed, 09/19/12 at 10:00 AM
+SALE TYPE:   Presale
+ARTIST URL:  http://www.ticketmaster.com/Dave-Koz-tickets/artist/737317
+SALE URL:    http://www.ticketmaster.com/event/050049169F587D17?artistid=737317&majorcatid=10001&minorcatid=4
+
+EVENT DATE:  2012-09-10
+ARTIST:      R. Kelly
+VENUE:       Verizon Theatre At Grand Prairie
+LOCATION:    Grand Prairie, TX
+PRICE RANGE: Unavailable
+GENRE:       R&B/Urban Soul
+SALE START:  Mon, 09/10/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.com/R-Kelly-tickets/artist/766948
+SALE URL:    http://www.ticketmaster.com/event/2B004926F1F34DED?artistid=766948&majorcatid=10001&minorcatid=202
+
+EVENT DATE:  2012-09-14
+ARTIST:      Counting Crows
 VENUE:       Global Event Center at WinStar World Resorts
 LOCATION:    Thackerville, OK
-PRICE RANGE: 35 - 55
-GENRE:       Country and Folk
-SALE START:  Fri, 08/31/12 at 10:00 AM
+PRICE RANGE: 40 - 60
+GENRE:       Alternative Rock
+SALE START:  Fri, 09/14/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Gary-Allan-tickets/artist/780718
-SALE URL:    http://www.ticketmaster.com/event/0C00491B85A22ED8?artistid=780718&majorcatid=10001&minorcatid=2
+ARTIST URL:  http://www.ticketmaster.com/Counting-Crows-tickets/artist/765319
+SALE URL:    http://www.ticketmaster.com/event/0C004924AB6C7713?artistid=765319&majorcatid=10001&minorcatid=60
 
-EVENT DATE:  2012-08-31
-ARTIST:      Falling in Reverse w/ Enter Shikari, I See Stars, & Letlive
-VENUE:       House of Blues Dallas
-LOCATION:    Dallas, TX
-PRICE RANGE: 18.5 - 18.5
-GENRE:       Hard Rock/Metal
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Jackie Evancho
+VENUE:       Verizon Theatre At Grand Prairie
+LOCATION:    Grand Prairie, TX
+PRICE RANGE: Unavailable
+GENRE:       Miscellaneous
+SALE START:  Mon, 09/10/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Falling-In-Reverse-tickets/artist/1601417
-SALE URL:    http://www.ticketmaster.com/event/0C004919D8456DED?artistid=1601417&majorcatid=10001&minorcatid=200
+ARTIST URL:  http://www.ticketmaster.com/Jackie-Evancho-tickets/artist/1572855
+SALE URL:    http://www.ticketmaster.com/event/2B004926F2404DF7?artistid=1572855&majorcatid=10001&minorcatid=107
 
-EVENT DATE:  2012-08-31
-ARTIST:      2012-2013 Baroque Series: Christmas Baroque
-VENUE:       QPWZL - Small Venue San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 25 - 25
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Mount Kimbie Plus Guests
+VENUE:       Los Globos
+LOCATION:    Los Angeles, CA
+PRICE RANGE: Unavailable
+GENRE:       Dance/Electronic
+SALE START:  Mon, 09/10/12 at 08:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004910CD4A8087?artistid=804263&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/Mount-Kimbie-tickets/artist/1471921
+SALE URL:    http://www.ticketmaster.com/event/2900492511C78684?artistid=1471921&majorcatid=10001&minorcatid=201
 
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents Rach 3
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-10
+ARTIST:      Mount Kimbie Plus Guests
+VENUE:       Los Globos
+LOCATION:    Los Angeles, CA
+PRICE RANGE: Unavailable
+GENRE:       Dance/Electronic
+SALE START:  Mon, 09/10/12 at 08:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847AC8FAF55?artistid=804263&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/Mount-Kimbie-tickets/artist/1471921
+SALE URL:    http://www.ticketmaster.com/event/2900492511C78684?artistid=1471921&majorcatid=10001&minorcatid=201
 
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents: Rach 3
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
+EVENT DATE:  2012-09-08
+ARTIST:      Talkdemonic with Special Guests
+VENUE:       Nectar Lounge
+LOCATION:    Seattle, WA
+PRICE RANGE: Unavailable
+GENRE:       Alternative Rock
+SALE START:  Sat, 09/08/12 at 12:00 PM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D0FFC455?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents SYMPHONIE FANTASTIQUE
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847ACCDAF84?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents SYMPHONIE FANTASTIQUE
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D12AC45E?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      Family Classic Series: Halloween Spooktacular!
-VENUE:       QPWZL - Small Venue San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 16 - 16
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C0049158E003987?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents BOLERO
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847ACD9AFA1?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents BOLERO
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D12FC460?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents Jupiter
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847ACE0AFB0?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents Jupiter
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D134C466?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      2012-2013 Baroque Series: Christmas Baroque
-VENUE:       QPWZL - Small Venue San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 25 - 25
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004910CD4A8087?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents Rach 3
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847AC8FAF55?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents: Rach 3
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D0FFC455?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents SYMPHONIE FANTASTIQUE
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847ACCDAF84?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents SYMPHONIE FANTASTIQUE
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D12AC45E?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      Family Classic Series: Halloween Spooktacular!
-VENUE:       QPWZL - Small Venue San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 16 - 16
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C0049158E003987?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents BOLERO
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847ACD9AFA1?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents BOLERO
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D12FC460?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents Jupiter
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004847ACE0AFB0?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      San Antonio Symphony presents Jupiter
-VENUE:       Majestic Theatre San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 10 - 63
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004848D134C466?artistid=804263&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-08-31
-ARTIST:      2012-2013 Baroque Series: Christmas Baroque
-VENUE:       QPWZL - Small Venue San Antonio
-LOCATION:    San Antonio, TX
-PRICE RANGE: 25 - 25
-GENRE:       Classical
-SALE START:  Fri, 08/31/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/San-Antonio-Symphony-Orchestra-tickets/artist/804263
-SALE URL:    http://www.ticketmaster.com/event/0C004910CD4A8087?artistid=804263&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.com/Talkdemonic-tickets/artist/1038077
+SALE URL:    http://www.ticketmaster.com/event/290049254EB48738?artistid=1038077&majorcatid=10001&minorcatid=60
 
 EVENT DATE:  2012-09-14
 ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
 VENUE:       KeyArena
 LOCATION:    Seattle, WA
-PRICE RANGE: 29.5 - 66.5
+PRICE RANGE: 30.5 - 67.5
 GENRE:       World Music
 SALE START:  Fri, 09/14/12 at 10:00 AM
 SALE TYPE:   Normal Sale
@@ -1678,298 +1216,89 @@ EVENT DATE:  2012-09-14
 ARTIST:      Hallmark Channel Presents Trans-Siberian Orchestra 2012
 VENUE:       KeyArena
 LOCATION:    Seattle, WA
-PRICE RANGE: 29.5 - 66.5
+PRICE RANGE: 30.5 - 67.5
 GENRE:       World Music
 SALE START:  Fri, 09/14/12 at 10:00 AM
 SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.com/TransSiberian-Orchestra-tickets/artist/780815
 SALE URL:    http://www.ticketmaster.com/event/0F00490E97902EBE?artistid=780815&majorcatid=10001&minorcatid=5
 
-EVENT DATE:  2012-08-31
-ARTIST:      &#34;Weird Al&#34; Yankovic - The Alpocalypse Tour
-VENUE:       Potawatomi Casino/Northern Lights Theater/Expo Center
-LOCATION:    Milwaukee, WI
-PRICE RANGE: 40 - 50
-GENRE:       Comedy
-SALE START:  Fri, 08/31/12 at 12:00 PM
+EVENT DATE:  2012-09-10
+ARTIST:      Leann Rimes
+VENUE:       Lucky Eagle Casino
+LOCATION:    Rochester, WA
+PRICE RANGE: 45 - 75
+GENRE:       Country and Folk
+SALE START:  Mon, 09/10/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Weird-Al-Yankovic-tickets/artist/772893
-SALE URL:    http://www.ticketmaster.com/event/07004902A75B2703?artistid=772893&majorcatid=10002&minorcatid=51
-
-EVENT DATE:  2012-09-04
-ARTIST:      PAUL RODGERS wth Special Guest DAVE MASON
-VENUE:       Potawatomi Casino/Northern Lights Theater/Expo Center
-LOCATION:    Milwaukee, WI
-PRICE RANGE: 35 - 55
-GENRE:       Rock and Pop
-SALE START:  Tue, 09/04/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Paul-Rodgers-tickets/artist/735996
-SALE URL:    http://www.ticketmaster.com/event/0700491088321A3D?artistid=735996&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-04
-ARTIST:      PAUL RODGERS wth Special Guest DAVE MASON
-VENUE:       Potawatomi Casino/Northern Lights Theater/Expo Center
-LOCATION:    Milwaukee, WI
-PRICE RANGE: 35 - 55
-GENRE:       Rock and Pop
-SALE START:  Tue, 09/04/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Paul-Rodgers-tickets/artist/735996
-SALE URL:    http://www.ticketmaster.com/event/0700491088371A55?artistid=735996&majorcatid=10001&minorcatid=1
+ARTIST URL:  http://www.ticketmaster.com/Leann-Rimes-tickets/artist/779682
+SALE URL:    http://www.ticketmaster.com/event/0F004914EB3C71A3?artistid=779682&majorcatid=10001&minorcatid=2
 
 EVENT DATE:  2012-09-14
-ARTIST:      Bob Dylan & His Band Preforming With Mark Knopfler
+ARTIST:      BOB DYLAN & HIS BAND performing with MARK KNOPFLER
 VENUE:       Coliseum at Alliant Energy Center
 LOCATION:    Madison, WI
-PRICE RANGE: 48 - 87.5
+PRICE RANGE: 45.5 - 85.5
 GENRE:       Rock and Pop
-SALE START:  Fri, 09/14/12 at 10:00 AM
-SALE TYPE:   Normal Sale
+SALE START:  Thu, 09/13/12 at 10:00 AM
+SALE TYPE:   Presale
 ARTIST URL:  http://www.ticketmaster.com/Bob-Dylan-tickets/artist/734972
 SALE URL:    http://www.ticketmaster.com/event/0700491691302AFB?artistid=734972&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-09-07
-ARTIST:      Uriah Heep
+EVENT DATE:  2012-10-12
+ARTIST:      Robert Cray Band
 VENUE:       Potawatomi Casino/Northern Lights Theater/Expo Center
 LOCATION:    Milwaukee, WI
 PRICE RANGE: 30 - 40
-GENRE:       Rock and Pop
-SALE START:  Fri, 09/07/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Uriah-Heep-tickets/artist/736375
-SALE URL:    http://www.ticketmaster.com/event/070048FE99EA25EA?artistid=736375&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-09-07
-ARTIST:      Uriah Heep
-VENUE:       Potawatomi Casino/Northern Lights Theater/Expo Center
-LOCATION:    Milwaukee, WI
-PRICE RANGE: 30 - 40
-GENRE:       Rock and Pop
-SALE START:  Fri, 09/07/12 at 12:00 PM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.com/Uriah-Heep-tickets/artist/736375
-SALE URL:    http://www.ticketmaster.com/event/070048FE99EE25EE?artistid=736375&majorcatid=10001&minorcatid=1
-
-EVENT DATE:  2012-08-31
-ARTIST:      The Killers
-VENUE:       Sound Academy
-LOCATION:    Toronto, ON
-PRICE RANGE: 54.5 - 56
-GENRE:       Alternative Rock
-SALE START:  Wed, 08/29/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.ca/The-Killers-tickets/artist/924503
-SALE URL:    http://www.ticketmaster.ca/event/10004916F194D8D6?artistid=924503&majorcatid=10001&minorcatid=60
-
-EVENT DATE:  2012-08-31
-ARTIST:      The Wooden Sky
-VENUE:       Molson Canadian Studio at Hamilton Place
-LOCATION:    Hamilton, ON
-PRICE RANGE: 17.5 - 20
-GENRE:       Alternative Rock
-SALE START:  Thu, 08/30/12 at 10:00 AM
-SALE TYPE:   Presale
-ARTIST URL:  http://www.ticketmaster.ca/The-Wooden-Sky-tickets/artist/1252319
-SALE URL:    http://www.ticketmaster.ca/event/10004918D346D5D4?artistid=1252319&majorcatid=10001&minorcatid=60
-
-EVENT DATE:  2012-09-04
-ARTIST:      Zukerman Performs Elgar | Zukerman visite Elgar
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 100
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/1000491495FD556F?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Beethoven's &#34;Ode To Joy&#34; | L
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 100
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/1000491495FF5574?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Rodrigo's Cello Concerto | Le Concerto pour violoncelle de Rodrigo
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/10004915977A6E51?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Rodrigo's Cello Concerto | Le Concerto pour violoncelle de Rodrigo
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/10004915978F6E83?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      The Little Prince | Le Petit Prince
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 22
-GENRE:       Miscellaneous
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Family-Adventures-tickets/artist/1496169
-SALE URL:    http://www.ticketmaster.ca/event/10004916C2D3C66C?artistid=1496169&majorcatid=10001&minorcatid=107
-
-EVENT DATE:  2012-09-04
-ARTIST:      The Little Prince | Le Petit Prince
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 22
-GENRE:       Miscellaneous
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Family-Adventures-tickets/artist/1496169
-SALE URL:    http://www.ticketmaster.ca/event/10004916C2D7C670?artistid=1496169&majorcatid=10001&minorcatid=107
-
-EVENT DATE:  2012-09-04
-ARTIST:      Les Violons Du Roy
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 80
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Les-Violons-Du-Roy-tickets/artist/935720
-SALE URL:    http://www.ticketmaster.ca/event/100049107FC64569?artistid=935720&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Violin Virtuoso James Ehnes | Le prodigieux James Ehnes
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/1000491597926E85?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Violin Virtuoso James Ehnes | Le prodigieux James Ehnes
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/10004915977E6E59?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      All Gershwin, All Pops! | Folie Gershwin
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Pops-Orchestre-Du-CNA-tickets/artist/1488966
-SALE URL:    http://www.ticketmaster.ca/event/10004910A5407ED2?artistid=1488966&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      All Gershwin, All Pops! | Folie Gershwin
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Pops-Orchestre-Du-CNA-tickets/artist/1488966
-SALE URL:    http://www.ticketmaster.ca/event/10004910A5457EE7?artistid=1488966&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      All Gershwin, All Pops! | Folie Gershwin
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Pops-Orchestre-Du-CNA-tickets/artist/1488966
-SALE URL:    http://www.ticketmaster.ca/event/10004910A5487F0E?artistid=1488966&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Toronto Symphony Orchestra | Orchestre symphonique de Toronto
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 80
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Toronto-Symphony-Orchestra-tickets/artist/891475
-SALE URL:    http://www.ticketmaster.ca/event/100049107FD14571?artistid=891475&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Debussy's La mer | La mer de Debussy
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/1000491597806E5F?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Debussy's La mer | La mer de Debussy
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 22 - 95
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/NAC-Orchestra-Orchestre-Du-CNA-tickets/artist/1488965
-SALE URL:    http://www.ticketmaster.ca/event/1000491597826E67?artistid=1488965&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-01
-ARTIST:      The Brian Browne Trio
-VENUE:       National Arts Centre / Centre national des Arts
-LOCATION:    Ottawa, ON
-PRICE RANGE: 40 - 40
 GENRE:       Jazz and Blues
-SALE START:  Sat, 09/01/12 at 10:00 AM
+SALE START:  Fri, 10/12/12 at 12:00 PM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/The-Brian-Browne-Trio-tickets/artist/12087
-SALE URL:    http://www.ticketmaster.ca/event/100048BEC0E89DE9?artistid=12087&majorcatid=10001&minorcatid=4
+ARTIST URL:  http://www.ticketmaster.com/Robert-Cray-Band-tickets/artist/731693
+SALE URL:    http://www.ticketmaster.com/event/0700490FE61952FC?artistid=731693&majorcatid=10001&minorcatid=4
 
-EVENT DATE:  2012-09-04
-ARTIST:      Vancouver Recital Society: Andras Schiff
-VENUE:       Chan Centre For The Performing Arts
-LOCATION:    Vancouver, BC
-PRICE RANGE: 22.75 - 72.75
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
+EVENT DATE:  2012-09-08
+ARTIST:      Wanting
+VENUE:       Virgin Mobile Mod Club
+LOCATION:    Toronto, ON
+PRICE RANGE: 15 - 15
+GENRE:       Alternative Rock
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Vancouver-Recital-Society-tickets/artist/986970
-SALE URL:    http://www.ticketmaster.ca/event/11004910B2A2B031?artistid=986970&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.ca/Wanting-tickets/artist/1776514
+SALE URL:    http://www.ticketmaster.ca/event/10004925DC8FDA8C?artistid=1776514&majorcatid=10001&minorcatid=60
 
-EVENT DATE:  2012-09-04
-ARTIST:      Vancouver Recital Society 2012-13 Season: Paul Lewis
-VENUE:       Chan Centre For The Performing Arts
-LOCATION:    Vancouver, BC
-PRICE RANGE: 22.75 - 67.75
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
+EVENT DATE:  2012-09-12
+ARTIST:      Rob Frayne Dream Band
+VENUE:       National Arts Centre / Centre national des Arts
+LOCATION:    Ottawa, ON
+PRICE RANGE: 25 - 25
+GENRE:       Jazz and Blues
+SALE START:  Wed, 09/12/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Vancouver-Recital-Society-tickets/artist/986970
-SALE URL:    http://www.ticketmaster.ca/event/1100490EAD5D9D6B?artistid=986970&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.ca/Rob-Frayne-tickets/artist/1775948
+SALE URL:    http://www.ticketmaster.ca/event/10004921A262240D?artistid=1775948&majorcatid=10001&minorcatid=4
+
+EVENT DATE:  2012-09-10
+ARTIST:      Voices... Out of the Dark
+VENUE:       National Arts Centre / Centre national des Arts
+LOCATION:    Ottawa, ON
+PRICE RANGE: 30 - 30
+GENRE:       More Concerts
+SALE START:  Mon, 09/10/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.ca/Voices-Out-of-the-Dark-tickets/artist/1776300
+SALE URL:    http://www.ticketmaster.ca/event/100049219DFD21AD?artistid=1776300&majorcatid=10001&minorcatid=52
+
+EVENT DATE:  2012-10-01
+ARTIST:      Renee Yoxon and Mark Ferguson
+VENUE:       National Arts Centre / Centre national des Arts
+LOCATION:    Ottawa, ON
+PRICE RANGE: 25 - 25
+GENRE:       Jazz and Blues
+SALE START:  Mon, 10/01/12 at 10:00 AM
+SALE TYPE:   Normal Sale
+ARTIST URL:  http://www.ticketmaster.ca/Renee-Yoxon-tickets/artist/1774488
+SALE URL:    http://www.ticketmaster.ca/event/1000491D90AE6382?artistid=1774488&majorcatid=10001&minorcatid=4
 
 EVENT DATE:  2012-09-16
 ARTIST:      The Stanfields with Glory Hound + Guests Tba
@@ -1982,38 +1311,16 @@ SALE TYPE:   Normal Sale
 ARTIST URL:  http://www.ticketmaster.ca/The-Stanfields-tickets/artist/1500060
 SALE URL:    http://www.ticketmaster.ca/event/2900491618D246EF?artistid=1500060&majorcatid=10001&minorcatid=1
 
-EVENT DATE:  2012-09-01
-ARTIST:      Js Bach Mass In B Minor
-VENUE:       Chan Centre For The Performing Arts
-LOCATION:    Vancouver, BC
-PRICE RANGE: 37.75 - 37.75
-GENRE:       Miscellaneous
-SALE START:  Sat, 09/01/12 at 12:00 PM
+EVENT DATE:  2012-09-08
+ARTIST:      The Stanfields Plus Gloryhound
+VENUE:       Lucky Bar
+LOCATION:    Victoria, BC
+PRICE RANGE: Unavailable
+GENRE:       Rock and Pop
+SALE START:  Sat, 09/08/12 at 10:00 AM
 SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Js-Bach-Mass-In-B-Minor-tickets/artist/1772017
-SALE URL:    http://www.ticketmaster.ca/event/11004918D339EFE4?artistid=1772017&majorcatid=10001&minorcatid=107
-
-EVENT DATE:  2012-09-04
-ARTIST:      Vancouver Recital Society 2012-13 Season: Marc-Andrew Hemelin
-VENUE:       Chan Centre For The Performing Arts
-LOCATION:    Vancouver, BC
-PRICE RANGE: 22.75 - 67.75
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Vancouver-Recital-Society-tickets/artist/986970
-SALE URL:    http://www.ticketmaster.ca/event/1100490EAD669D72?artistid=986970&majorcatid=10002&minorcatid=203
-
-EVENT DATE:  2012-09-04
-ARTIST:      Vancouver Recital Society 2012-13 Season: Stephen Hough
-VENUE:       Chan Centre For The Performing Arts
-LOCATION:    Vancouver, BC
-PRICE RANGE: 22.75 - 67.75
-GENRE:       Classical
-SALE START:  Tue, 09/04/12 at 10:00 AM
-SALE TYPE:   Normal Sale
-ARTIST URL:  http://www.ticketmaster.ca/Vancouver-Recital-Society-tickets/artist/986970
-SALE URL:    http://www.ticketmaster.ca/event/1100490EAD729D7D?artistid=986970&majorcatid=10002&minorcatid=203
+ARTIST URL:  http://www.ticketmaster.ca/The-Stanfields-tickets/artist/1500060
+SALE URL:    http://www.ticketmaster.ca/event/29004924386D82B5?artistid=1500060&majorcatid=10001&minorcatid=1
 
 EVENT DATE:  2012-09-28
 ARTIST:      Bruce Springsteen
